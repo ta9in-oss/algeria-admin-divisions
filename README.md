@@ -50,7 +50,7 @@ A comprehensive, multilingual (Arabic, French, English) database of Algeria's **
 | Partial data | 10 wilayas |
 | Names only | 11 wilayas |
 
-> Last updated: 2026-04-19 10:05 UTC
+> Last updated: 2026-04-20 11:36 UTC
 <!-- STATS_END -->
 
 ---
