@@ -1,0 +1,123 @@
+[
+  {
+    "code": "59",
+    "name_ar": "آفلو",
+    "name_fr": "Aflou",
+    "parent_wilaya_code": "03",
+    "parent_wilaya_name_ar": "الأغواط",
+    "parent_wilaya_name_fr": "Laghouat",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "60",
+    "name_ar": "بريكة",
+    "name_fr": "Barika",
+    "parent_wilaya_code": "05",
+    "parent_wilaya_name_ar": "باتنة",
+    "parent_wilaya_name_fr": "Batna",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "61",
+    "name_ar": "القنطرة",
+    "name_fr": "El Kantara",
+    "parent_wilaya_code": "07",
+    "parent_wilaya_name_ar": "بسكرة",
+    "parent_wilaya_name_fr": "Biskra",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "62",
+    "name_ar": "بئر العاتر",
+    "name_fr": "Bir El Ater",
+    "parent_wilaya_code": "12",
+    "parent_wilaya_name_ar": "تبسة",
+    "parent_wilaya_name_fr": "Tebessa",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "63",
+    "name_ar": "العريشة",
+    "name_fr": "El Aricha",
+    "parent_wilaya_code": "13",
+    "parent_wilaya_name_ar": "تلمسان",
+    "parent_wilaya_name_fr": "Tlemcen",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "64",
+    "name_ar": "قصر الشلالة",
+    "name_fr": "Ksar Chellala",
+    "parent_wilaya_code": "14",
+    "parent_wilaya_name_ar": "تيارت",
+    "parent_wilaya_name_fr": "Tiaret",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "65",
+    "name_ar": "عين وسارة",
+    "name_fr": "Ain Oussara",
+    "parent_wilaya_code": "17",
+    "parent_wilaya_name_ar": "الجلفة",
+    "parent_wilaya_name_fr": "Djelfa",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "66",
+    "name_ar": "مسعد",
+    "name_fr": "Messaad",
+    "parent_wilaya_code": "17",
+    "parent_wilaya_name_ar": "الجلفة",
+    "parent_wilaya_name_fr": "Djelfa",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "67",
+    "name_ar": "قصر البخاري",
+    "name_fr": "Ksar El Boukhari",
+    "parent_wilaya_code": "26",
+    "parent_wilaya_name_ar": "المدية",
+    "parent_wilaya_name_fr": "Medea",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "68",
+    "name_ar": "بوسعادة",
+    "name_fr": "Bou Saada",
+    "parent_wilaya_code": "28",
+    "parent_wilaya_name_ar": "المسيلة",
+    "parent_wilaya_name_fr": "M'Sila",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  },
+  {
+    "code": "69",
+    "name_ar": "الأبيض سيدي الشيخ",
+    "name_fr": "El Abiodh Sidi Cheikh",
+    "parent_wilaya_code": "32",
+    "parent_wilaya_name_ar": "البيض",
+    "parent_wilaya_name_fr": "El Bayadh",
+    "created_year": 2025,
+    "communes": [],
+    "dairas": []
+  }
+]

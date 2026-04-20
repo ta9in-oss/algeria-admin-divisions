@@ -1,0 +1,97 @@
+name: Update Algeria Admin Data
+
+on:
+  schedule:
+    - cron: '0 0 * * 0'  # Weekly, Sundays 00:00 UTC
+  workflow_dispatch:       # Manual trigger
+  push:
+    branches: [main]
+    paths:
+      - 'data/raw/new_wilayas_11.json'
+      - 'scripts/**'
+
+permissions:
+  contents: write
+
+jobs:
+  update-data:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout repository
+        uses: actions/checkout@v4
+        with:
+          fetch-depth: 0
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run data pipeline
+        working-directory: scripts
+        run: python main.py --verbose
+
+      - name: Check for changes
+        id: check_changes
+        run: |
+          git add -A
+          if git diff --cached --quiet; then
+            echo "changed=false" >> $GITHUB_OUTPUT
+            echo "No changes detected"
+          else
+            echo "changed=true" >> $GITHUB_OUTPUT
+            echo "Changes detected!"
+            git diff --cached --stat
+          fi
+
+      - name: Commit and push changes
+        if: steps.check_changes.outputs.changed == 'true'
+        run: |
+          git config --local user.email "github-actions[bot]@users.noreply.github.com"
+          git config --local user.name "github-actions[bot]"
+          
+          # Build commit message
+          TIMESTAMP=$(date -u +"%Y-%m-%d %H:%M UTC")
+          WILAYAS=$(python -c "import json; d=json.load(open('data/processed/wilayas.json')); print(len(d))")
+          COMMUNES=$(python -c "import json; d=json.load(open('data/processed/communes.json')); print(len(d))")
+          
+          git commit -m "📊 Data update: ${WILAYAS} wilayas, ${COMMUNES} communes [${TIMESTAMP}]"
+          git push
+
+      - name: Check for major update (new wilayas)
+        if: steps.check_changes.outputs.changed == 'true'
+        id: check_release
+        run: |
+          # Compare wilaya count with previous version
+          CURRENT=$(python -c "import json; d=json.load(open('data/processed/wilayas.json')); print(len(d))")
+          
+          # Get previous count from git history
+          PREVIOUS=$(git show HEAD~1:data/processed/wilayas.json 2>/dev/null | python -c "import json,sys; d=json.load(sys.stdin); print(len(d))" 2>/dev/null || echo "0")
+          
+          if [ "$CURRENT" != "$PREVIOUS" ] && [ "$PREVIOUS" != "0" ]; then
+            echo "release=true" >> $GITHUB_OUTPUT
+            echo "New wilayas detected: $PREVIOUS → $CURRENT"
+          else
+            echo "release=false" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Create release
+        if: steps.check_release.outputs.release == 'true'
+        uses: softprops/action-gh-release@v2
+        with:
+          tag_name: v${{ github.run_number }}
+          name: "Data Update — New Wilayas Detected"
+          body: |
+            Automated release triggered by a change in the number of wilayas.
+            
+            Check the data files in `data/processed/` for the updated dataset.
+          files: |
+            data/processed/wilayas.json
+            data/processed/communes.json
+            data/processed/dairas.json
+            data/exports/algeria_divisions.sql

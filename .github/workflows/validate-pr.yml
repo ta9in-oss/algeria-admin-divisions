@@ -1,0 +1,74 @@
+name: Validate PR Data
+
+on:
+  pull_request:
+    paths:
+      - 'data/**'
+      - 'scripts/**'
+
+jobs:
+  validate:
+    runs-on: ubuntu-latest
+    
+    steps:
+      - name: Checkout PR
+        uses: actions/checkout@v4
+
+      - name: Setup Python
+        uses: actions/setup-python@v5
+        with:
+          python-version: '3.13'
+          cache: 'pip'
+
+      - name: Install dependencies
+        run: pip install -r requirements.txt
+
+      - name: Run validation
+        id: validate
+        working-directory: scripts
+        run: |
+          # Run pipeline with --skip-scrape (use existing data)
+          # If scraped data doesn't exist, just run validator
+          if [ -f "../data/processed/wilayas.json" ]; then
+            python validator.py 2>&1 | tee validation_output.txt
+            echo "exit_code=${PIPESTATUS[0]}" >> $GITHUB_OUTPUT
+          else
+            echo "No processed data found. Running merger with --skip-scrape..."
+            python main.py --skip-scrape --verbose 2>&1 | tee validation_output.txt
+            echo "exit_code=${PIPESTATUS[0]}" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Post validation results
+        if: always()
+        uses: actions/github-script@v7
+        with:
+          script: |
+            const fs = require('fs');
+            let output = '';
+            try {
+              output = fs.readFileSync('scripts/validation_output.txt', 'utf8');
+            } catch (e) {
+              output = 'Could not read validation output.';
+            }
+            
+            // Truncate if too long
+            if (output.length > 3000) {
+              output = output.slice(-3000);
+              output = '...(truncated)\n' + output;
+            }
+            
+            const exitCode = '${{ steps.validate.outputs.exit_code }}';
+            const status = exitCode === '0' ? '✅ Validation Passed' : '❌ Validation Failed';
+            
+            const body = `## ${status}\n\n\`\`\`\n${output}\n\`\`\``;
+            
+            github.rest.issues.createComment({
+              issue_number: context.issue.number,
+              owner: context.repo.owner,
+              repo: context.repo.repo,
+              body: body
+            });
+
+      - name: Fail if validation failed
+        if: steps.validate.outputs.exit_code != '0'
+        run: exit 1

@@ -1,0 +1,22 @@
+{
+  "generated_at": "2026-04-19T10:05:25.364486+00:00",
+  "sources": {
+    "legacy_48": {
+      "file": "data/raw/legacy_48.json",
+      "description": "Original 48 wilayas dataset (Arabic only, full contact info)",
+      "records": 1535
+    },
+    "scraped_58": {
+      "file": "data/raw/scraped_58.json",
+      "description": "Scraped from apcsali-adrar.dz (58 wilayas, AR+FR, commune codes)",
+      "wilayas": 58,
+      "communes": 1541
+    },
+    "new_wilayas_11": {
+      "file": "data/raw/new_wilayas_11.json",
+      "description": "Manually entered 11 new wilayas (November 2025, names only)",
+      "records": 11
+    }
+  },
+  "merge_strategy": "scraped → legacy → manual"
+}

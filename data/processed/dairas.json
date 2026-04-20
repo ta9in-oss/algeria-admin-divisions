@@ -1,0 +1,7508 @@
+[
+  {
+    "name_ar": "أدرار",
+    "name_fr": "",
+    "name_en": "أدرار",
+    "wilaya_code": "01",
+    "phone": "049 96 91 32",
+    "fax": "049 96 85 85",
+    "email": "dairaadrar@hotmail.com",
+    "communes": [
+      "0101",
+      "0121",
+      "0122"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولف",
+    "name_fr": "",
+    "name_en": "أولف",
+    "wilaya_code": "01",
+    "phone": "049 32 73 50",
+    "fax": "049 32 75 49",
+    "email": "dairaaoulef0112@gmail.com",
+    "communes": [
+      "0112",
+      "0113",
+      "0119"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تسابيت",
+    "name_fr": "",
+    "name_en": "تسابيت",
+    "wilaya_code": "01",
+    "phone": "049 34 80 80",
+    "fax": "049 34 80 80",
+    "email": "dairatsabit@gmail.com",
+    "communes": [
+      "0108"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "رقان",
+    "name_fr": "",
+    "name_en": "رقان",
+    "wilaya_code": "01",
+    "phone": "049 97 00 50",
+    "fax": "049 97 02 80",
+    "email": "daira.reggane@gmail.com",
+    "communes": [
+      "0104",
+      "0118"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زاوية كنتة",
+    "name_fr": "",
+    "name_en": "زاوية كنتة",
+    "wilaya_code": "01",
+    "phone": "049 32 41 06",
+    "fax": "049 97 42 08",
+    "email": "z.kounta0111@gmail.com",
+    "communes": [
+      "0111"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "فنوغيل",
+    "name_fr": "",
+    "name_en": "فنوغيل",
+    "wilaya_code": "01",
+    "phone": "049 94 12 80",
+    "fax": "049 94 16 19",
+    "email": "daira_fenoughil@yahoo.com",
+    "communes": [
+      "0102",
+      "0114",
+      "0115"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أبو الحسن",
+    "name_fr": "",
+    "name_en": "أبو الحسن",
+    "wilaya_code": "02",
+    "phone": "027 75 52 17 / 09",
+    "fax": "027 75 53 93",
+    "email": "",
+    "communes": [
+      "0205",
+      "0214",
+      "0222"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد بن عبد القادر",
+    "name_fr": "",
+    "name_en": "أولاد بن عبد القادر",
+    "wilaya_code": "02",
+    "phone": "027 40 47 03 / 06",
+    "fax": "027 40 47 01",
+    "email": "d_ouledbenaek@wilaya-chlef.dz",
+    "communes": [
+      "0227",
+      "0230"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد فارس",
+    "name_fr": "",
+    "name_en": "أولاد فارس",
+    "wilaya_code": "02",
+    "phone": "027 72 74 16 / 15",
+    "fax": "027 72 74 18",
+    "email": "",
+    "communes": [
+      "0210",
+      "0224",
+      "0228"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الزبوجة",
+    "name_fr": "",
+    "name_en": "الزبوجة",
+    "wilaya_code": "02",
+    "phone": "027 75 20 83 / 90",
+    "fax": "027 75 21 60",
+    "email": "",
+    "communes": [
+      "0203",
+      "0220",
+      "0231"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشلف",
+    "name_fr": "",
+    "name_en": "الشلف",
+    "wilaya_code": "02",
+    "phone": "027 77 55 49 /027 79 08 56",
+    "fax": "02777 09 62",
+    "email": "d_chlef@wilaya-chlef.dz",
+    "communes": [
+      "0201",
+      "0219",
+      "0233"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الكريمية",
+    "name_fr": "",
+    "name_en": "الكريمية",
+    "wilaya_code": "02",
+    "phone": "027 70 94 24",
+    "fax": "027 70 96 45",
+    "email": "",
+    "communes": [
+      "0204",
+      "0209",
+      "0235"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المرسى",
+    "name_fr": "",
+    "name_en": "المرسى",
+    "wilaya_code": "02",
+    "phone": "027 75 64 51",
+    "fax": "027 75 61 36",
+    "email": "dairaelmarsa2015@gmail.com",
+    "communes": [
+      "0223",
+      "0226"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني حواء",
+    "name_fr": "",
+    "name_en": "بني حواء",
+    "wilaya_code": "02",
+    "phone": "027 75 31 82 / 90",
+    "fax": "027 75 35 63",
+    "email": "",
+    "communes": [
+      "0207",
+      "0216",
+      "0234"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقادير",
+    "name_fr": "",
+    "name_en": "بوقادير",
+    "wilaya_code": "02",
+    "phone": "027 74 97 24 / 18",
+    "fax": "027 74 10 90/07 57",
+    "email": "d_boukadir@wilaya-chlef.dz",
+    "communes": [
+      "0212",
+      "0221"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تاوقريت",
+    "name_fr": "",
+    "name_en": "تاوقريت",
+    "wilaya_code": "02",
+    "phone": "027 42 05 82/06 53/03 45",
+    "fax": "027 42 01 92/05 82",
+    "email": "",
+    "communes": [
+      "0206",
+      "0217"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تنس",
+    "name_fr": "",
+    "name_en": "تنس",
+    "wilaya_code": "02",
+    "phone": "027 76 70 43 /77 01",
+    "fax": "027 76 92 09/70 72",
+    "email": "",
+    "communes": [
+      "0202",
+      "0211",
+      "0225"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين مران",
+    "name_fr": "",
+    "name_en": "عين مران",
+    "wilaya_code": "02",
+    "phone": "027 42 93 43",
+    "fax": "027 42 94 12",
+    "email": "",
+    "communes": [
+      "0215",
+      "0232"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي الفضة",
+    "name_fr": "",
+    "name_en": "وادي الفضة",
+    "wilaya_code": "02",
+    "phone": "027 44 70 16 / 17",
+    "fax": "027 44 75 05",
+    "email": "",
+    "communes": [
+      "0213",
+      "0218",
+      "0229"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أفلو",
+    "name_fr": "",
+    "name_en": "أفلو",
+    "wilaya_code": "03",
+    "phone": "029 96 99 99",
+    "fax": "029 96 55 77",
+    "email": "daira.aflou@gmail.com",
+    "communes": [
+      "0316",
+      "0319",
+      "0324"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الأغواط",
+    "name_fr": "",
+    "name_en": "الأغواط",
+    "wilaya_code": "03",
+    "phone": "029 13 12 46",
+    "fax": "029 13 12 25",
+    "email": "",
+    "communes": [
+      "0301"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الغيشة",
+    "name_fr": "",
+    "name_en": "الغيشة",
+    "wilaya_code": "03",
+    "phone": "029 16 52 15",
+    "fax": "029 16 52 16",
+    "email": "daira.elghicha@yahoo.com",
+    "communes": [
+      "0314"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بريدة",
+    "name_fr": "",
+    "name_en": "بريدة",
+    "wilaya_code": "03",
+    "phone": "029 16 01 33",
+    "fax": "029 16 01 11",
+    "email": "dairabrida@gmail.com",
+    "communes": [
+      "0313",
+      "0315",
+      "0317"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حاسي الرمل",
+    "name_fr": "",
+    "name_en": "حاسي الرمل",
+    "wilaya_code": "03",
+    "phone": "029 18 82 06",
+    "fax": "029 18 82 13",
+    "email": "",
+    "communes": [
+      "0305",
+      "0306"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي مخلوف",
+    "name_fr": "",
+    "name_en": "سيدي مخلوف",
+    "wilaya_code": "03",
+    "phone": "029 14 11 36",
+    "fax": "029 14 11 36 /029 14 11 37",
+    "email": "dsmlag0304@gmail.com",
+    "communes": [
+      "0304",
+      "0320"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين ماضي",
+    "name_fr": "",
+    "name_en": "عين ماضي",
+    "wilaya_code": "03",
+    "phone": "029 13 05 85",
+    "fax": "029 13 05 85",
+    "email": "",
+    "communes": [
+      "0307",
+      "0308",
+      "0309",
+      "0318",
+      "0323"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قتلة سيدي سعيد",
+    "name_fr": "",
+    "name_en": "قتلة سيدي سعيد",
+    "wilaya_code": "03",
+    "phone": "029 17 32 12",
+    "fax": "029 17 32 14/16",
+    "email": "gssdaira@gmail.com",
+    "communes": [
+      "0310",
+      "0311",
+      "0312"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قصر الحيران",
+    "name_fr": "",
+    "name_en": "قصر الحيران",
+    "wilaya_code": "03",
+    "phone": "029 93 91 21",
+    "fax": "029 93 91 22",
+    "email": "dairakeh@gmail.com",
+    "communes": [
+      "0302",
+      "0303"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي مرة",
+    "name_fr": "",
+    "name_en": "وادي مرة",
+    "wilaya_code": "03",
+    "phone": "029 16 38 40",
+    "fax": "029 16 38 39",
+    "email": "daira.o.morra@gmail.com",
+    "communes": [
+      "0321",
+      "0322"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أم البواقي",
+    "name_fr": "",
+    "name_en": "أم البواقي",
+    "wilaya_code": "04",
+    "phone": "032 54 14 72",
+    "fax": "032 54 14 73",
+    "email": "",
+    "communes": [
+      "0401",
+      "0427"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الضلعة",
+    "name_fr": "",
+    "name_en": "الضلعة",
+    "wilaya_code": "04",
+    "phone": "032 66 71 65",
+    "fax": "032 66 71 63",
+    "email": "",
+    "communes": [
+      "0411",
+      "0414"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سوق نعمان",
+    "name_fr": "",
+    "name_en": "سوق نعمان",
+    "wilaya_code": "04",
+    "phone": "032 44 41 60",
+    "fax": "032 44 41 62",
+    "email": "",
+    "communes": [
+      "0417",
+      "0420",
+      "0421"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيقوس",
+    "name_fr": "",
+    "name_en": "سيقوس",
+    "wilaya_code": "04",
+    "phone": "032 56 83 54",
+    "fax": "032 56 81 49",
+    "email": "",
+    "communes": [
+      "0405",
+      "0406"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين البيضاء",
+    "name_fr": "",
+    "name_en": "عين البيضاء",
+    "wilaya_code": "04",
+    "phone": "032 69 12 91",
+    "fax": "032 69 12 92",
+    "email": "",
+    "communes": [
+      "0402",
+      "0409",
+      "0418"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين ببوش",
+    "name_fr": "",
+    "name_en": "عين ببوش",
+    "wilaya_code": "04",
+    "phone": "032 67 30 49/33 49",
+    "fax": "032 67 33 08",
+    "email": "",
+    "communes": [
+      "0408",
+      "0415"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين فكرون",
+    "name_fr": "",
+    "name_en": "عين فكرون",
+    "wilaya_code": "04",
+    "phone": "032 40 14 25",
+    "fax": "032 4014 18",
+    "email": "",
+    "communes": [
+      "0419",
+      "0425"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين كرشة",
+    "name_fr": "",
+    "name_en": "عين كرشة",
+    "wilaya_code": "04",
+    "phone": "032 44 12 19/13 27",
+    "fax": "032 44 13 39",
+    "email": "",
+    "communes": [
+      "0412",
+      "0413",
+      "0429"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين مليلة",
+    "name_fr": "",
+    "name_en": "عين مليلة",
+    "wilaya_code": "04",
+    "phone": "032 50 60 05",
+    "fax": "032 50 63 63",
+    "email": "",
+    "communes": [
+      "0403",
+      "0410",
+      "0428"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "فكيرينة",
+    "name_fr": "",
+    "name_en": "فكيرينة",
+    "wilaya_code": "04",
+    "phone": "032 47 91 90",
+    "fax": "032 47 91 64",
+    "email": "",
+    "communes": [
+      "0416",
+      "0423"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قصر الصباحي",
+    "name_fr": "",
+    "name_en": "قصر الصباحي",
+    "wilaya_code": "04",
+    "phone": "032 55 52 63",
+    "fax": "032 55 52 64",
+    "email": "",
+    "communes": [
+      "0422"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مسكيانة",
+    "name_fr": "",
+    "name_en": "مسكيانة",
+    "wilaya_code": "04",
+    "phone": "032 47 12 89/14 22",
+    "fax": "032 47 17 34",
+    "email": "",
+    "communes": [
+      "0404",
+      "0407",
+      "0424",
+      "0426"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أريس",
+    "name_fr": "",
+    "name_en": "أريس",
+    "wilaya_code": "05",
+    "phone": "033.34.31.62",
+    "fax": "033.34.31.61",
+    "email": "",
+    "communes": [
+      "0516",
+      "0526"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد سي سليمان",
+    "name_fr": "",
+    "name_en": "أولاد سي سليمان",
+    "wilaya_code": "05",
+    "phone": "033.37.31.53",
+    "fax": "033.37.31.78",
+    "email": "Dairaouledsislimane@gmail.com",
+    "communes": [
+      "0527",
+      "0538",
+      "0553"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إشمول",
+    "name_fr": "",
+    "name_en": "إشمول",
+    "wilaya_code": "05",
+    "phone": "033.34.91.65",
+    "fax": "033.80.41.12",
+    "email": "",
+    "communes": [
+      "0511",
+      "0530",
+      "0531"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الجزار",
+    "name_fr": "",
+    "name_en": "الجزار",
+    "wilaya_code": "05",
+    "phone": "033.89.54.23",
+    "fax": "033.89.54.24",
+    "email": "dairadjezzar6@gmail.com",
+    "communes": [
+      "0515",
+      "0543",
+      "0556"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشمرة",
+    "name_fr": "",
+    "name_en": "الشمرة",
+    "wilaya_code": "05",
+    "phone": "033.32.60.52",
+    "fax": "033.32.62.85",
+    "email": "",
+    "communes": [
+      "0560"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المعذر",
+    "name_fr": "",
+    "name_en": "المعذر",
+    "wilaya_code": "05",
+    "phone": "033.26.80.90",
+    "fax": "033.26.80.87",
+    "email": "daira.elmadher@yahoo.fr",
+    "communes": [
+      "0507",
+      "0513",
+      "0522",
+      "0559"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "باتنة",
+    "name_fr": "",
+    "name_en": "باتنة",
+    "wilaya_code": "05",
+    "phone": "033.80.58.42",
+    "fax": "033.80.41.12",
+    "email": "",
+    "communes": [
+      "0501",
+      "0523",
+      "0537"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بريكة",
+    "name_fr": "",
+    "name_en": "بريكة",
+    "wilaya_code": "05",
+    "phone": "033.38.60.01",
+    "fax": "033.38.65.96",
+    "email": "",
+    "communes": [
+      "0514",
+      "0542",
+      "0555"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوزينة",
+    "name_fr": "",
+    "name_en": "بوزينة",
+    "wilaya_code": "05",
+    "phone": "033.20.80.60",
+    "fax": "033.20.80.60",
+    "email": "dairabouzina0535@gmail.com",
+    "communes": [
+      "0535",
+      "0561"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تازولت",
+    "name_fr": "",
+    "name_en": "تازولت",
+    "wilaya_code": "05",
+    "phone": "033.32.78.68",
+    "fax": "033.32.78.68",
+    "email": "",
+    "communes": [
+      "0508",
+      "0512"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تكوت",
+    "name_fr": "",
+    "name_en": "تكوت",
+    "wilaya_code": "05",
+    "phone": "033.34.01.50",
+    "fax": "033.34.01.50",
+    "email": "Daira.tkout@gmail.com",
+    "communes": [
+      "0502",
+      "0517",
+      "0544"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيمقاد",
+    "name_fr": "",
+    "name_en": "تيمقاد",
+    "wilaya_code": "05",
+    "phone": "033.21.10.19",
+    "fax": "033.21.10.19",
+    "email": "Timgaddaira5049@yahoo.fr",
+    "communes": [
+      "0549",
+      "0550"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ثنية العابد",
+    "name_fr": "",
+    "name_en": "ثنية العابد",
+    "wilaya_code": "05",
+    "phone": "033.34.10.21",
+    "fax": "033.34.14.50",
+    "email": "Dairatea2@gmail.com",
+    "communes": [
+      "0547",
+      "0548",
+      "0552"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "رأس العيون",
+    "name_fr": "",
+    "name_en": "رأس العيون",
+    "wilaya_code": "05",
+    "phone": "033.37.04.13",
+    "fax": "033.37.04.14",
+    "email": "CD.RASELAIOUN@GMAIL.COM",
+    "communes": [
+      "0510",
+      "0520",
+      "0525",
+      "0534",
+      "0539",
+      "0551"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سريانة",
+    "name_fr": "",
+    "name_en": "سريانة",
+    "wilaya_code": "05",
+    "phone": "033.26.50.70",
+    "fax": "033.26.50.70",
+    "email": "www.dairaseriana@gmail.com",
+    "communes": [
+      "0505",
+      "0554",
+      "0558"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سقانة",
+    "name_fr": "",
+    "name_en": "سقانة",
+    "wilaya_code": "05",
+    "phone": "033.37.22.41",
+    "fax": "033.37.22.40",
+    "email": "Daira seggana085@gmail.com",
+    "communes": [
+      "0518",
+      "0529"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين التوتة",
+    "name_fr": "",
+    "name_en": "عين التوتة",
+    "wilaya_code": "05",
+    "phone": "033.35.51.66",
+    "fax": "033.35.56.93",
+    "email": "",
+    "communes": [
+      "0503",
+      "0532",
+      "0540",
+      "0545"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين جاسر",
+    "name_fr": "",
+    "name_en": "عين جاسر",
+    "wilaya_code": "05",
+    "phone": "033.24.53.33",
+    "fax": "033.24.53.35",
+    "email": "",
+    "communes": [
+      "0519",
+      "0557"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مروانة",
+    "name_fr": "",
+    "name_en": "مروانة",
+    "wilaya_code": "05",
+    "phone": "033.33.12.69",
+    "fax": "033.33.12.64",
+    "email": "Daira_0504@yahoo.com",
+    "communes": [
+      "0504",
+      "0528",
+      "0533",
+      "0546"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "منعة",
+    "name_fr": "",
+    "name_en": "منعة",
+    "wilaya_code": "05",
+    "phone": "033.34.63.59",
+    "fax": "033.34.64.01",
+    "email": "",
+    "communes": [
+      "0506",
+      "0521"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "نقاوس",
+    "name_fr": "",
+    "name_en": "نقاوس",
+    "wilaya_code": "05",
+    "phone": "033.37.71.19",
+    "fax": "033.37.73.24",
+    "email": "",
+    "communes": [
+      "0509",
+      "0524",
+      "0541"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أدكار",
+    "name_fr": "",
+    "name_en": "أدكار",
+    "wilaya_code": "06",
+    "phone": "034 86 39 44",
+    "fax": "034 86 38 13",
+    "email": "",
+    "communes": [
+      "0604",
+      "0624",
+      "0635"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أقبو",
+    "name_fr": "",
+    "name_en": "أقبو",
+    "wilaya_code": "06",
+    "phone": "034 35 90 05 /034 35 90 06",
+    "fax": "034 35 91 21",
+    "email": "",
+    "communes": [
+      "0605",
+      "0606",
+      "0615",
+      "0625"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أميزور",
+    "name_fr": "",
+    "name_en": "أميزور",
+    "wilaya_code": "06",
+    "phone": "034 24 04 72 /034 24 04 76",
+    "fax": "034 24 06 73",
+    "email": "",
+    "communes": [
+      "0602",
+      "0603",
+      "0612",
+      "0623"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أوقاس",
+    "name_fr": "",
+    "name_en": "أوقاس",
+    "wilaya_code": "06",
+    "phone": "034 84 23 53 /034 84 23 55",
+    "fax": "034 84 23 46",
+    "email": "",
+    "communes": [
+      "0622",
+      "0649"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إغيل علي",
+    "name_fr": "",
+    "name_en": "إغيل علي",
+    "wilaya_code": "06",
+    "phone": "034 36 83 61 /034 36 83 86",
+    "fax": "034 36 84 81",
+    "email": "",
+    "communes": [
+      "0617",
+      "0628"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إفري أوزلاقن",
+    "name_fr": "",
+    "name_en": "إفري أوزلاقن",
+    "wilaya_code": "06",
+    "phone": "034 33 25 82 /034 33 25 84",
+    "fax": "034 33 25 81",
+    "email": "",
+    "communes": [
+      "0636"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القصر",
+    "name_fr": "",
+    "name_en": "القصر",
+    "wilaya_code": "06",
+    "phone": "034 25 24 84 /034 25 24 67",
+    "fax": "034 25 27 27",
+    "email": "",
+    "communes": [
+      "0618",
+      "0619",
+      "0640"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بجاية",
+    "name_fr": "",
+    "name_en": "بجاية",
+    "wilaya_code": "06",
+    "phone": "034 21 27 98",
+    "fax": "034 21 19 80",
+    "email": "",
+    "communes": [
+      "0601",
+      "0651"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برباشة",
+    "name_fr": "",
+    "name_en": "برباشة",
+    "wilaya_code": "06",
+    "phone": "034 25 61 77",
+    "fax": "034 25 61 04",
+    "email": "",
+    "communes": [
+      "0613",
+      "0634"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني معوش",
+    "name_fr": "",
+    "name_en": "بني معوش",
+    "wilaya_code": "06",
+    "phone": "034 32 03 04 /034 32 34 27",
+    "fax": "034 32 03 05",
+    "email": "",
+    "communes": [
+      "0650"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تازملت",
+    "name_fr": "",
+    "name_en": "تازملت",
+    "wilaya_code": "06",
+    "phone": "034 31 31 47 /034 31 31 48",
+    "fax": "034 31 30 10",
+    "email": "",
+    "communes": [
+      "0627",
+      "0638",
+      "0652"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيشي",
+    "name_fr": "",
+    "name_en": "تيشي",
+    "wilaya_code": "06",
+    "phone": "034 81 52 84",
+    "fax": "034 81 52 82",
+    "email": "",
+    "communes": [
+      "0611",
+      "0633",
+      "0648"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيمزريت",
+    "name_fr": "",
+    "name_en": "تيمزريت",
+    "wilaya_code": "06",
+    "phone": "034 26 32 97",
+    "fax": "034 26 33 05",
+    "email": "",
+    "communes": [
+      "0607"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خراطة",
+    "name_fr": "",
+    "name_en": "خراطة",
+    "wilaya_code": "06",
+    "phone": "034 18 50 97 /034 18 51 07",
+    "fax": "034 18 50 98",
+    "email": "",
+    "communes": [
+      "0644",
+      "0645"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "درقينة",
+    "name_fr": "",
+    "name_en": "درقينة",
+    "wilaya_code": "06",
+    "phone": "034 39 80 41",
+    "fax": "034 39 80 75",
+    "email": "",
+    "communes": [
+      "0620",
+      "0631",
+      "0647"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سوق الإثنين",
+    "name_fr": "",
+    "name_en": "سوق الإثنين",
+    "wilaya_code": "06",
+    "phone": "034 23 74 94 /034 23 74 97",
+    "fax": "034 23 74 96",
+    "email": "",
+    "communes": [
+      "0608",
+      "0641",
+      "0646"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي عيش",
+    "name_fr": "",
+    "name_en": "سيدي عيش",
+    "wilaya_code": "06",
+    "phone": "034 29 34 30",
+    "fax": "034 29 34 86",
+    "email": "",
+    "communes": [
+      "0610",
+      "0614",
+      "0621",
+      "0621",
+      "0643"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شميني",
+    "name_fr": "",
+    "name_en": "شميني",
+    "wilaya_code": "06",
+    "phone": "034 26 93 35 /034 26 93 38",
+    "fax": "034 26 93 36",
+    "email": "",
+    "communes": [
+      "0629",
+      "0630",
+      "0632",
+      "0642"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "صدوق",
+    "name_fr": "",
+    "name_en": "صدوق",
+    "wilaya_code": "06",
+    "phone": "034 89 33 97 /034 32 35 85",
+    "fax": "034 89 34 04",
+    "email": "",
+    "communes": [
+      "0609",
+      "0616",
+      "0626",
+      "0637"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أورلال",
+    "name_fr": "",
+    "name_en": "أورلال",
+    "wilaya_code": "07",
+    "phone": "033 57 05 34",
+    "fax": "033 57 02 43",
+    "email": "dairaourlal2015@gmail.com",
+    "communes": [
+      "0702",
+      "0724",
+      "0725",
+      "0730"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القنطرة",
+    "name_fr": "",
+    "name_en": "القنطرة",
+    "wilaya_code": "07",
+    "phone": "033.63.21.07",
+    "fax": "033.63.14.04",
+    "email": "daira.elkantara@gmail.com",
+    "communes": [
+      "0717",
+      "0718"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الوطاية",
+    "name_fr": "",
+    "name_en": "الوطاية",
+    "wilaya_code": "07",
+    "phone": "033.62.91.50",
+    "fax": "033.62.91.11",
+    "email": "eloutaya 0719@outlook.com",
+    "communes": [
+      "0719"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بسكرة",
+    "name_fr": "",
+    "name_en": "بسكرة",
+    "wilaya_code": "07",
+    "phone": "033.65.62.22",
+    "fax": "033.65.62.24",
+    "email": "daira.biskra@gmail.com",
+    "communes": [
+      "0701",
+      "0732"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جمورة",
+    "name_fr": "",
+    "name_en": "جمورة",
+    "wilaya_code": "07",
+    "phone": "033 62 51 05",
+    "fax": "033 62 50 89",
+    "email": "dairaj0712@gmail.com",
+    "communes": [
+      "0720"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زريبة الوادي",
+    "name_fr": "",
+    "name_en": "زريبة الوادي",
+    "wilaya_code": "07",
+    "phone": "033 63 31 00/033 63 30 94",
+    "fax": "033 63 30 95 / 033 63 30 97",
+    "email": "daira.zeo@gmail.com",
+    "communes": [
+      "0715",
+      "0716",
+      "0728",
+      "0733"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي عقبة",
+    "name_fr": "",
+    "name_en": "سيدي عقبة",
+    "wilaya_code": "07",
+    "phone": "033 64 51 08",
+    "fax": "033 64 52 44",
+    "email": "DAIRA,SIDIOKBA@gmail,com",
+    "communes": [
+      "0704",
+      "0711",
+      "0713",
+      "0714"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "طولقة",
+    "name_fr": "",
+    "name_en": "طولقة",
+    "wilaya_code": "07",
+    "phone": "033.78.61.64",
+    "fax": "033.78.64.97",
+    "email": "dairatolga@gmail.com",
+    "communes": [
+      "0721",
+      "0723",
+      "0727",
+      "0729"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "فوغالة",
+    "name_fr": "",
+    "name_en": "فوغالة",
+    "wilaya_code": "07",
+    "phone": "033 58 43 97 / 033 58 43 12",
+    "fax": "033 58 43 13 / 033 58 43 07",
+    "email": "dairafoughala@gmail.com",
+    "communes": [
+      "0726",
+      "0731"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مشونش",
+    "name_fr": "",
+    "name_en": "مشونش",
+    "wilaya_code": "07",
+    "phone": "033 62 11 75",
+    "fax": "033 62 12 20",
+    "email": "daira.mchouneche. biskra@gmail. Com",
+    "communes": [
+      "0712"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد خضير",
+    "name_fr": "",
+    "name_en": "أولاد خضير",
+    "wilaya_code": "08",
+    "phone": "049-82-72-22",
+    "fax": "049-82-71-12",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إقلي",
+    "name_fr": "",
+    "name_en": "إقلي",
+    "wilaya_code": "08",
+    "phone": "049 28 11 55",
+    "fax": "049 28 15 80",
+    "email": "iglidaira@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العبادلة",
+    "name_fr": "",
+    "name_en": "العبادلة",
+    "wilaya_code": "08",
+    "phone": "049-25-63-05",
+    "fax": "049-25-66-55",
+    "email": "",
+    "communes": [
+      "0802",
+      "0809",
+      "0817"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الواتة",
+    "name_fr": "",
+    "name_en": "الواتة",
+    "wilaya_code": "08",
+    "phone": "049-28-01-36",
+    "fax": "049-28-01-25",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بشار",
+    "name_fr": "",
+    "name_en": "بشار",
+    "wilaya_code": "08",
+    "phone": "049-21-03-00",
+    "fax": "049-21-03-54",
+    "email": "",
+    "communes": [
+      "0801"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تاغيت",
+    "name_fr": "",
+    "name_en": "تاغيت",
+    "wilaya_code": "08",
+    "phone": "049-25-32-76",
+    "fax": "049-25-31-37",
+    "email": "",
+    "communes": [
+      "0813"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تبلبالة",
+    "name_fr": "",
+    "name_en": "تبلبالة",
+    "wilaya_code": "08",
+    "phone": "049-27-09-16",
+    "fax": "049-27-08-55",
+    "email": "dairatabelbala0812@hotmailfr",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "كرزاز",
+    "name_fr": "",
+    "name_en": "كرزاز",
+    "wilaya_code": "08",
+    "phone": "049 29 88 25",
+    "fax": "049 29 82 38",
+    "email": "dairakerzaz@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "لحمر",
+    "name_fr": "",
+    "name_en": "لحمر",
+    "wilaya_code": "08",
+    "phone": "049-26-51-09",
+    "fax": "049-26-51-02",
+    "email": "",
+    "communes": [
+      "0815",
+      "0816"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد يعيش",
+    "name_fr": "",
+    "name_en": "أولاد يعيش",
+    "wilaya_code": "09",
+    "phone": "025 43 83 83/025 43 24 81",
+    "fax": "025 43 83 46",
+    "email": "dairaoy@gmail.com",
+    "communes": [
+      "0905",
+      "0906",
+      "0921"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الأربعاء",
+    "name_fr": "",
+    "name_en": "الأربعاء",
+    "wilaya_code": "09",
+    "phone": "025 46 02 67/025 46 05 68",
+    "fax": "025 46 05 68/025 46 08 78/025 46 60 83",
+    "email": "dairadelarbaa@gmail.com",
+    "communes": [
+      "0917"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البليدة",
+    "name_fr": "",
+    "name_en": "البليدة",
+    "wilaya_code": "09",
+    "phone": "025 41 01 57",
+    "fax": "025 41 03 18",
+    "email": "",
+    "communes": [
+      "0901",
+      "0920"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العفرون",
+    "name_fr": "",
+    "name_en": "العفرون",
+    "wilaya_code": "09",
+    "phone": "025 26 65 10/025 26 65 12",
+    "fax": "025 26 65 13",
+    "email": "dairaelaffroun@gmail.com",
+    "communes": [
+      "0907",
+      "0918"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوعينان",
+    "name_fr": "",
+    "name_en": "بوعينان",
+    "wilaya_code": "09",
+    "phone": "025 25 73 91/025 25 73 95",
+    "fax": "025 25 73 90",
+    "email": "dairabouinan@gmail.com",
+    "communes": [
+      "0902",
+      "0903"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوفاريك",
+    "name_fr": "",
+    "name_en": "بوفاريك",
+    "wilaya_code": "09",
+    "phone": "025 47 32 00/025 47 32 02",
+    "fax": "025 47 39 60",
+    "email": "",
+    "communes": [
+      "0911",
+      "0916",
+      "0923"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقرة",
+    "name_fr": "",
+    "name_en": "بوقرة",
+    "wilaya_code": "09",
+    "phone": "025 25 24 52/ 025 25 11 11",
+    "fax": "025 25 22 19",
+    "email": "",
+    "communes": [
+      "0909",
+      "0915",
+      "0922"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مفتاح",
+    "name_fr": "",
+    "name_en": "مفتاح",
+    "wilaya_code": "09",
+    "phone": "025 45 55 11/025 45 62 82",
+    "fax": "025 45 56 66",
+    "email": "",
+    "communes": [
+      "0914",
+      "0925"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "موزاية",
+    "name_fr": "",
+    "name_en": "موزاية",
+    "wilaya_code": "09",
+    "phone": "025 37 73 31/025 37 79 25",
+    "fax": "025 37 79 23",
+    "email": "",
+    "communes": [
+      "0908",
+      "0912",
+      "0924"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي العلايق",
+    "name_fr": "",
+    "name_en": "وادي العلايق",
+    "wilaya_code": "09",
+    "phone": "025 42 12 87/025 42 14 97",
+    "fax": "025 42 12 92",
+    "email": "",
+    "communes": [
+      "0904",
+      "0910",
+      "0919"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد يعيش",
+    "name_fr": "",
+    "name_en": "أولاد يعيش",
+    "wilaya_code": "10",
+    "phone": "025 43 83 83/025 43 24 81",
+    "fax": "025 43 83 46",
+    "email": "dairaoy@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الأربعاء",
+    "name_fr": "",
+    "name_en": "الأربعاء",
+    "wilaya_code": "10",
+    "phone": "025 46 02 67/025 46 05 68",
+    "fax": "025 46 05 68/025 46 08 78/025 46 60 83",
+    "email": "dairadelarbaa@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البليدة",
+    "name_fr": "",
+    "name_en": "البليدة",
+    "wilaya_code": "10",
+    "phone": "025 41 01 57",
+    "fax": "025 41 03 18",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العفرون",
+    "name_fr": "",
+    "name_en": "العفرون",
+    "wilaya_code": "10",
+    "phone": "025 26 65 10/025 26 65 12",
+    "fax": "025 26 65 13",
+    "email": "dairaelaffroun@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوعينان",
+    "name_fr": "",
+    "name_en": "بوعينان",
+    "wilaya_code": "10",
+    "phone": "025 25 73 91/025 25 73 95",
+    "fax": "025 25 73 90",
+    "email": "dairabouinan@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوفاريك",
+    "name_fr": "",
+    "name_en": "بوفاريك",
+    "wilaya_code": "10",
+    "phone": "025 47 32 00/025 47 32 02",
+    "fax": "025 47 39 60",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقرة",
+    "name_fr": "",
+    "name_en": "بوقرة",
+    "wilaya_code": "10",
+    "phone": "025 25 24 52/ 025 25 11 11",
+    "fax": "025 25 22 19",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مفتاح",
+    "name_fr": "",
+    "name_en": "مفتاح",
+    "wilaya_code": "10",
+    "phone": "025 45 55 11/025 45 62 82",
+    "fax": "025 45 56 66",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "موزاية",
+    "name_fr": "",
+    "name_en": "موزاية",
+    "wilaya_code": "10",
+    "phone": "025 37 73 31/025 37 79 25",
+    "fax": "025 37 79 23",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي العلايق",
+    "name_fr": "",
+    "name_en": "وادي العلايق",
+    "wilaya_code": "10",
+    "phone": "025 42 12 87/025 42 14 97",
+    "fax": "025 42 12 92",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إينغر",
+    "name_fr": "",
+    "name_en": "إينغر",
+    "wilaya_code": "11",
+    "phone": "029 36 94 05",
+    "fax": "029 36 94 13",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تاظروك",
+    "name_fr": "",
+    "name_en": "تاظروك",
+    "wilaya_code": "11",
+    "phone": "029 39 51 28",
+    "fax": "029 39 51 28",
+    "email": "dairatazrouk@gmail.com",
+    "communes": [
+      "1105",
+      "1106"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تمنراست",
+    "name_fr": "",
+    "name_en": "تمنراست",
+    "wilaya_code": "11",
+    "phone": "029 32 03 55",
+    "fax": "029 32 09 09",
+    "email": "",
+    "communes": [
+      "1109"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تين زواتين",
+    "name_fr": "",
+    "name_en": "تين زواتين",
+    "wilaya_code": "11",
+    "phone": "029 35 71 07",
+    "fax": "029 35 71 00",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيلت",
+    "name_fr": "",
+    "name_en": "سيلت",
+    "wilaya_code": "11",
+    "phone": "029 35 01 08/029 35 01 01",
+    "fax": "029 35 01 08/029 35 01 01",
+    "email": "Daira.silet@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أم علي",
+    "name_fr": "",
+    "name_en": "أم علي",
+    "wilaya_code": "12",
+    "phone": "037.64.02.63",
+    "fax": "037.64.01.87",
+    "email": "d_oumali@wilaya-tebessa.dz",
+    "communes": [
+      "1207",
+      "1221"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشريعة",
+    "name_fr": "",
+    "name_en": "الشريعة",
+    "wilaya_code": "12",
+    "phone": "037.62.44.17",
+    "fax": "037.62.48.19",
+    "email": "d_cheria@wilaya-tebessa.dz",
+    "communes": [
+      "1203",
+      "1222"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العقلة",
+    "name_fr": "",
+    "name_en": "العقلة",
+    "wilaya_code": "12",
+    "phone": "037.62.03.99",
+    "fax": "037.62.02.09",
+    "email": "d_elogla@wilaya-tebessa.dz",
+    "communes": [
+      "1204",
+      "1213",
+      "1226",
+      "1227"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العوينات",
+    "name_fr": "",
+    "name_en": "العوينات",
+    "wilaya_code": "12",
+    "phone": "037.65.21.85",
+    "fax": "037.65.22.63",
+    "email": "d_elaouinet@wilaya-tebessa.dz",
+    "communes": [
+      "1205",
+      "1218"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الكويف",
+    "name_fr": "",
+    "name_en": "الكويف",
+    "wilaya_code": "12",
+    "phone": "037.52.30.46",
+    "fax": "037.52.30.32",
+    "email": "d_elkouif@wilaya-tebessa.dz",
+    "communes": [
+      "1211",
+      "1217",
+      "1225"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الماء الابيض",
+    "name_fr": "",
+    "name_en": "الماء الابيض",
+    "wilaya_code": "12",
+    "phone": "037.52.51.25",
+    "fax": "037.52.52.87",
+    "email": "d_elmalabiod@wilaya-tebessa.dz",
+    "communes": [
+      "1206",
+      "1220"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الونزة",
+    "name_fr": "",
+    "name_en": "الونزة",
+    "wilaya_code": "12",
+    "phone": "037.67.13.84",
+    "fax": "037.67.13.82",
+    "email": "d_elouenza@wilaya-tebessa.dz",
+    "communes": [
+      "1219",
+      "1223",
+      "1224"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر العاتر",
+    "name_fr": "",
+    "name_en": "بئر العاتر",
+    "wilaya_code": "12",
+    "phone": "037.44.62.22",
+    "fax": "037.44.80.50",
+    "email": "d_birelater@wilaya-tebessa.dz",
+    "communes": [
+      "1202",
+      "1215"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر مقدم",
+    "name_fr": "",
+    "name_en": "بئر مقدم",
+    "wilaya_code": "12",
+    "phone": "037.62.82.10",
+    "fax": "037.62.81.56",
+    "email": "d_birmokaddem@wilaya-tebessa.dz",
+    "communes": [
+      "1208",
+      "1210",
+      "1216"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تبسة",
+    "name_fr": "",
+    "name_en": "تبسة",
+    "wilaya_code": "12",
+    "phone": "037.59.11.87",
+    "fax": "037.59.11.80",
+    "email": "d_tebessa@wilaya-tebessa.dz",
+    "communes": [
+      "1201"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مرسط",
+    "name_fr": "",
+    "name_en": "مرسط",
+    "wilaya_code": "12",
+    "phone": "037.65.71.98",
+    "fax": "037.65. 70.41",
+    "email": "d_morsott@wilaya-tebessa.dz",
+    "communes": [
+      "1212",
+      "1214"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "نقرين",
+    "name_fr": "",
+    "name_en": "نقرين",
+    "wilaya_code": "12",
+    "phone": "037.64.21.51",
+    "fax": "037.64.23.77",
+    "email": "d_negrine@wilaya-tebessa.dz",
+    "communes": [
+      "1209",
+      "1228"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد ميمون",
+    "name_fr": "",
+    "name_en": "أولاد ميمون",
+    "wilaya_code": "13",
+    "phone": "043 36 12 13/043 36 10 96",
+    "fax": "043 36 12 75",
+    "email": "dairaomimoun@yahoo.com",
+    "communes": [
+      "1313",
+      "1352"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحناية",
+    "name_fr": "",
+    "name_en": "الحناية",
+    "wilaya_code": "13",
+    "phone": "043 40 01 30/043 40 93 03",
+    "fax": "043 40 99 71",
+    "email": "Dairah1319@gmail.com",
+    "communes": [
+      "1316",
+      "1326",
+      "1346"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الرمشي",
+    "name_fr": "",
+    "name_en": "الرمشي",
+    "wilaya_code": "13",
+    "phone": "043 43 54 50",
+    "fax": "043 43 54 53",
+    "email": "daira_remchi@yahoo.fr",
+    "communes": [
+      "1304",
+      "1305",
+      "1315",
+      "1322",
+      "1336"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الغزوات",
+    "name_fr": "",
+    "name_en": "الغزوات",
+    "wilaya_code": "13",
+    "phone": "043 46 75 47",
+    "fax": "043 46 75 49",
+    "email": "dairaghazaouet@gmail.com",
+    "communes": [
+      "1307",
+      "1319",
+      "1329",
+      "1345"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "باب العسة",
+    "name_fr": "",
+    "name_en": "باب العسة",
+    "wilaya_code": "13",
+    "phone": "043 51 13 30/043 51 13 31",
+    "fax": "043 51 13 28",
+    "email": "daira.bea.1318@gmail.com",
+    "communes": [
+      "1308",
+      "1318",
+      "1333"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بن سكران",
+    "name_fr": "",
+    "name_en": "بن سكران",
+    "wilaya_code": "13",
+    "phone": "043 38 71 76",
+    "fax": "043 38 74 00",
+    "email": "bensekrane1324@gmail.com",
+    "communes": [
+      "1324"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني بوسعيد",
+    "name_fr": "",
+    "name_en": "بني بوسعيد",
+    "wilaya_code": "13",
+    "phone": "043 50 04 10",
+    "fax": "043 50 02 59",
+    "email": "",
+    "communes": [
+      "1337",
+      "1338"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني سنوس",
+    "name_fr": "",
+    "name_en": "بني سنوس",
+    "wilaya_code": "13",
+    "phone": "043 34 17 50",
+    "fax": "043 34 01 60",
+    "email": "dairabenisnous@gmail.com",
+    "communes": [
+      "1317",
+      "1321",
+      "1342"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تلمسان",
+    "name_fr": "",
+    "name_en": "تلمسان",
+    "wilaya_code": "13",
+    "phone": "043 26 76 50",
+    "fax": "043 26 76 51",
+    "email": "dairatlemcen@.hotmail.com",
+    "communes": [
+      "1301"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سبدو",
+    "name_fr": "",
+    "name_en": "سبدو",
+    "wilaya_code": "13",
+    "phone": "043 54 44 04",
+    "fax": "043 34 43 43",
+    "email": "dairasebdou@gmail.com",
+    "communes": [
+      "1310",
+      "1332",
+      "1335"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي الجيلالي",
+    "name_fr": "",
+    "name_en": "سيدي الجيلالي",
+    "wilaya_code": "13",
+    "phone": "043 54 21 65/043 54 25 13",
+    "fax": "043 54 21 22",
+    "email": "dairasd1310@gmail.com",
+    "communes": [
+      "1341",
+      "1343"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شتوان",
+    "name_fr": "",
+    "name_en": "شتوان",
+    "wilaya_code": "13",
+    "phone": "043 40 68 48",
+    "fax": "043 40 63 52",
+    "email": "daira_chetouane@hotmail.com",
+    "communes": [
+      "1312",
+      "1314",
+      "1350"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "صبرة",
+    "name_fr": "",
+    "name_en": "صبرة",
+    "wilaya_code": "13",
+    "phone": "043 53 46 04/043 53 48 02",
+    "fax": "043 53 45 00",
+    "email": "dairasabra@gmail.com",
+    "communes": [
+      "1306",
+      "1347"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين تالوت",
+    "name_fr": "",
+    "name_en": "عين تالوت",
+    "wilaya_code": "13",
+    "phone": "043 58 49 80",
+    "fax": "043 58 49 81",
+    "email": "daira.aintellout@gmail.com",
+    "communes": [
+      "1303",
+      "1325"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "فلاوسن",
+    "name_fr": "",
+    "name_en": "فلاوسن",
+    "wilaya_code": "13",
+    "phone": "043 46 66 57",
+    "fax": "043 46 66 43",
+    "email": "dairafellaoucne1320@.gmail.com",
+    "communes": [
+      "1320",
+      "1331",
+      "1353"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مرسى بن مهيدي",
+    "name_fr": "",
+    "name_en": "مرسى بن مهيدي",
+    "wilaya_code": "13",
+    "phone": "043 51 07 00",
+    "fax": "043 51 07 56",
+    "email": "daira.marsa1315@gmail.com",
+    "communes": [
+      "1330",
+      "1339"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مغنية",
+    "name_fr": "",
+    "name_en": "مغنية",
+    "wilaya_code": "13",
+    "phone": "043 49 10 63/043 49 10 65",
+    "fax": "043 49 11 59",
+    "email": "daira.maghnia@gmail.com",
+    "communes": [
+      "1327",
+      "1328"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "منصورة",
+    "name_fr": "",
+    "name_en": "منصورة",
+    "wilaya_code": "13",
+    "phone": "043 21 25 58/043 21 50 02",
+    "fax": "043 21 44 90",
+    "email": "dairamansourah1308@gmail.com",
+    "communes": [
+      "1302",
+      "1323",
+      "1349",
+      "1351"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ندرومة",
+    "name_fr": "",
+    "name_en": "ندرومة",
+    "wilaya_code": "13",
+    "phone": "043 45 09 02/043 45 09 03",
+    "fax": "043 45 02 20",
+    "email": "nedromadaira@gmail.com",
+    "communes": [
+      "1309",
+      "1340"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "هنين",
+    "name_fr": "",
+    "name_en": "هنين",
+    "wilaya_code": "13",
+    "phone": "043 23 81 34/043 23 81 48",
+    "fax": "043 83 81 34",
+    "email": "dairahonaine1312@hotmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "السوقر",
+    "name_fr": "",
+    "name_en": "السوقر",
+    "wilaya_code": "14",
+    "phone": "046 43 02 87",
+    "fax": "046 43 02 90",
+    "email": "Daira.sougueur@gmail.com",
+    "communes": [
+      "1416",
+      "1417",
+      "1426",
+      "1441"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيارت",
+    "name_fr": "",
+    "name_en": "تيارت",
+    "wilaya_code": "14",
+    "phone": "046 20 20 02/ 046 20 20 19",
+    "fax": "046 20 20 04",
+    "email": "dairatiaret@yahoo.com",
+    "communes": [
+      "1401"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمادية",
+    "name_fr": "",
+    "name_en": "حمادية",
+    "wilaya_code": "14",
+    "phone": "046 37 53 37",
+    "fax": "046 37 53 39",
+    "email": "adjalammar2@gmail.com",
+    "communes": [
+      "1430",
+      "1435",
+      "1440"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "دحموني",
+    "name_fr": "",
+    "name_en": "دحموني",
+    "wilaya_code": "14",
+    "phone": "046 24 11 79",
+    "fax": "046 24 11 78/046 24 11 80",
+    "email": "daira.dahmouni@gmail.com",
+    "communes": [
+      "1403",
+      "1413"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "رحوية",
+    "name_fr": "",
+    "name_en": "رحوية",
+    "wilaya_code": "14",
+    "phone": "046 35 91 23/ 046 35 91 24",
+    "fax": "046 35 91 25",
+    "email": "daira rahouia14@yahoo.fr",
+    "communes": [
+      "1414",
+      "1422"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الذهب",
+    "name_fr": "",
+    "name_en": "عين الذهب",
+    "wilaya_code": "14",
+    "phone": "046 29 12 95",
+    "fax": "046 29 12 96",
+    "email": "daira.aindeheb@gmail.com",
+    "communes": [
+      "1406",
+      "1420",
+      "1436"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين كرمس",
+    "name_fr": "",
+    "name_en": "عين كرمس",
+    "wilaya_code": "14",
+    "phone": "046 29 03 91/ 046 29 03 96",
+    "fax": "046 29 03 96",
+    "email": "Dairakermes2015@gmail.com",
+    "communes": [
+      "1402",
+      "1410",
+      "1419",
+      "1428",
+      "1438"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "فرندة",
+    "name_fr": "",
+    "name_en": "فرندة",
+    "wilaya_code": "14",
+    "phone": "046 40 70 40",
+    "fax": "046 40 92 92",
+    "email": "chdairafrenda@gmail.com",
+    "communes": [
+      "1418",
+      "1427",
+      "1437"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قصر الشلالة",
+    "name_fr": "",
+    "name_en": "قصر الشلالة",
+    "wilaya_code": "14",
+    "phone": "046 46 82  79",
+    "fax": "046 36 12 38",
+    "email": "Ksarchellala1429@gmail.com",
+    "communes": [
+      "1409",
+      "1429",
+      "1439"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مدروسة",
+    "name_fr": "",
+    "name_en": "مدروسة",
+    "wilaya_code": "14",
+    "phone": "046 32 51 46/046 32 52 60",
+    "fax": "046 32 52 59",
+    "email": "daira.medroussa1402@gmail.com",
+    "communes": [
+      "1402",
+      "1407"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مشرع الصفا",
+    "name_fr": "",
+    "name_en": "مشرع الصفا",
+    "wilaya_code": "14",
+    "phone": "046 31 72 95/046 31 72 94",
+    "fax": "046 31 72 91",
+    "email": "mechrasfa14@gmail.com",
+    "communes": [
+      "1424",
+      "1432",
+      "1434"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مغيلة",
+    "name_fr": "",
+    "name_en": "مغيلة",
+    "wilaya_code": "14",
+    "phone": "046 34 41 04",
+    "fax": "046 34 41 15",
+    "email": "Daira.meghila@gmail.com",
+    "communes": [
+      "1411",
+      "1421",
+      "1423"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مهدية",
+    "name_fr": "",
+    "name_en": "مهدية",
+    "wilaya_code": "14",
+    "phone": "046 46 35 38/046 46 36 44",
+    "fax": "046 46 30 37",
+    "email": "dairamehdia@gmail.com",
+    "communes": [
+      "1405",
+      "1415",
+      "1425",
+      "1431"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي ليلي",
+    "name_fr": "",
+    "name_en": "وادي ليلي",
+    "wilaya_code": "14",
+    "phone": "046 35 43 36",
+    "fax": "046 35 43 34",
+    "email": "dairaouedlili@gmail.com",
+    "communes": [
+      "1404",
+      "1433",
+      "1442"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أزفون",
+    "name_fr": "",
+    "name_en": "أزفون",
+    "wilaya_code": "15",
+    "phone": "026 45 02 39/026 45 02 40/026 45 02 41",
+    "fax": "026 45 02 37",
+    "email": "",
+    "communes": [
+      "1513",
+      "1537",
+      "1544",
+      "1553"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إفرحونان",
+    "name_fr": "",
+    "name_en": "إفرحونان",
+    "wilaya_code": "15",
+    "phone": "026 49 54 84",
+    "fax": "026 49 51 63",
+    "email": "dairaiferhounene@yahoo.com",
+    "communes": [
+      "1563"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الأربعاء ناث إيراثن",
+    "name_fr": "",
+    "name_en": "الأربعاء ناث إيراثن",
+    "wilaya_code": "15",
+    "phone": "026 26 14 25",
+    "fax": "026 26 34 00",
+    "email": "Daïra_lni@yahoo.fr",
+    "communes": [
+      "1521",
+      "1535"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني دوالة",
+    "name_fr": "",
+    "name_en": "بني دوالة",
+    "wilaya_code": "15",
+    "phone": "026 40 37 18/026 40 37 21",
+    "fax": "026 40 37 20",
+    "email": "benidouala_2013@hotmail.fr",
+    "communes": [
+      "1515",
+      "1528",
+      "1532"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني يني",
+    "name_fr": "",
+    "name_en": "بني يني",
+    "wilaya_code": "15",
+    "phone": "026 3372 25/026 33 71 79",
+    "fax": "026 33 71 48",
+    "email": "",
+    "communes": [
+      "1552",
+      "1560"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوزقن",
+    "name_fr": "",
+    "name_en": "بوزقن",
+    "wilaya_code": "15",
+    "phone": "026 14 06 17/026 14 06 22",
+    "fax": "026 14 06 19",
+    "email": "daira.bouzeguene@gmail.com",
+    "communes": [
+      "1519",
+      "1546"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوغني",
+    "name_fr": "",
+    "name_en": "بوغني",
+    "wilaya_code": "15",
+    "phone": "026 28 47 16/026 28 47 17",
+    "fax": "026 28 49 56",
+    "email": "csdb1540@gmail.com",
+    "communes": [
+      "1506",
+      "1512",
+      "1540",
+      "1531"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيزي راشد",
+    "name_fr": "",
+    "name_en": "تيزي راشد",
+    "wilaya_code": "15",
+    "phone": "026 31 94 31",
+    "fax": "026 31 96 70",
+    "email": "Tizirached1522@yahoo.fr",
+    "communes": [
+      "1522",
+      "1542"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيزي غنيف",
+    "name_fr": "",
+    "name_en": "تيزي غنيف",
+    "wilaya_code": "15",
+    "phone": "026 13 91 11",
+    "fax": "026 13 91 23",
+    "email": "dairatizigheniff@yahoo.fr",
+    "communes": [
+      "1511",
+      "1526"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيزي وزو",
+    "name_fr": "",
+    "name_en": "تيزي وزو",
+    "wilaya_code": "15",
+    "phone": "026 19 04 01",
+    "fax": "026 19 04 02",
+    "email": "dairatiziouzou@yahoo.com",
+    "communes": [
+      "1501"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيقزيرت",
+    "name_fr": "",
+    "name_en": "تيقزيرت",
+    "wilaya_code": "15",
+    "phone": "026 15 82 91",
+    "fax": "026 15 82 90",
+    "email": "daira.tigzirt@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ذراع الميزان",
+    "name_fr": "",
+    "name_en": "ذراع الميزان",
+    "wilaya_code": "15",
+    "phone": "026 13 31 31/026 13 33 01",
+    "fax": "023 13 33 04",
+    "email": "daira_dem@yahoo.fr",
+    "communes": [
+      "1510",
+      "1514",
+      "1525"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ذراع بن خدة",
+    "name_fr": "",
+    "name_en": "ذراع بن خدة",
+    "wilaya_code": "15",
+    "phone": "026 27 28 76/026 27 28 57",
+    "fax": "026 27 27 76",
+    "email": "daira.dbk@gmail.com",
+    "communes": [
+      "1543",
+      "1547",
+      "1559",
+      "1564"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عزازقة",
+    "name_fr": "",
+    "name_en": "عزازقة",
+    "wilaya_code": "15",
+    "phone": "026 14 10 10",
+    "fax": "026 14 12 53",
+    "email": "",
+    "communes": [
+      "1504",
+      "1518",
+      "1523",
+      "1541"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الحمام",
+    "name_fr": "",
+    "name_en": "عين الحمام",
+    "wilaya_code": "15",
+    "phone": "026 48 85 07",
+    "fax": "026 48 85 08",
+    "email": "dairaaeh15200@gmail.com",
+    "communes": [
+      "1502",
+      "1503",
+      "1527",
+      "1531"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ماكودة",
+    "name_fr": "",
+    "name_en": "ماكودة",
+    "wilaya_code": "15",
+    "phone": "026 44 43 03",
+    "fax": "026 44 43 02",
+    "email": "dairamakouda@yahoo.fr",
+    "communes": [
+      "1509",
+      "1555"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "معاتقة",
+    "name_fr": "",
+    "name_en": "معاتقة",
+    "wilaya_code": "15",
+    "phone": "026 13 83 80",
+    "fax": "026 13 83 97",
+    "email": "",
+    "communes": [
+      "1557"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مقلع",
+    "name_fr": "",
+    "name_en": "مقلع",
+    "wilaya_code": "15",
+    "phone": "026 37 23 91",
+    "fax": "026 37 23 92",
+    "email": "",
+    "communes": [
+      "1558"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "واسيف",
+    "name_fr": "",
+    "name_en": "واسيف",
+    "wilaya_code": "15",
+    "phone": "026 33 12 54",
+    "fax": "026 3312 47",
+    "email": "ouacif@yahoo.com",
+    "communes": [
+      "1530",
+      "1548",
+      "1567"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "واضية",
+    "name_fr": "",
+    "name_en": "واضية",
+    "wilaya_code": "15",
+    "phone": "026 32 34 10/026 32 33 24",
+    "fax": "026 32 36 80",
+    "email": "",
+    "communes": [
+      "1536",
+      "1551",
+      "1561"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "واقنون",
+    "name_fr": "",
+    "name_en": "واقنون",
+    "wilaya_code": "15",
+    "phone": "026 44 01 88",
+    "fax": "026 22 03 10",
+    "email": "dairaouag@gmail.com",
+    "communes": [
+      "1508",
+      "1524"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحراش",
+    "name_fr": "",
+    "name_en": "الحراش",
+    "wilaya_code": "16",
+    "phone": "021524337/021524253",
+    "fax": "021 52 62 36",
+    "email": "elharrach.alger@wilaya-alger.dz",
+    "communes": [
+      "1613",
+      "1615",
+      "1616",
+      "1619"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الدار البيضاء",
+    "name_fr": "",
+    "name_en": "الدار البيضاء",
+    "wilaya_code": "16",
+    "phone": "021213178/021213081",
+    "fax": "021 24 30 00",
+    "email": "darelbeida.alger@wilaya-alger.dz",
+    "communes": [
+      "1620",
+      "1621",
+      "1629",
+      "1630",
+      "1641",
+      "1642",
+      "1643"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الدرارية",
+    "name_fr": "",
+    "name_en": "الدرارية",
+    "wilaya_code": "16",
+    "phone": "021353200/021353201",
+    "fax": "021 35 41 95",
+    "email": "draria.alger@wilaya-alger.dz",
+    "communes": [
+      "1647",
+      "1648",
+      "1649",
+      "1654",
+      "1656"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الرويبة",
+    "name_fr": "",
+    "name_en": "الرويبة",
+    "wilaya_code": "16",
+    "phone": "023854646/023854511",
+    "fax": "023 85 44 47",
+    "email": "rouiba.alger@wilaya-alger.dz",
+    "communes": [
+      "1638",
+      "1639",
+      "1640"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشراقة",
+    "name_fr": "",
+    "name_en": "الشراقة",
+    "wilaya_code": "16",
+    "phone": "021361892/021361893",
+    "fax": "021 37 59 59",
+    "email": "cherega.alger@wilaya-alger.dz",
+    "communes": [
+      "1623",
+      "1624",
+      "1651",
+      "1652",
+      "1657"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر توتة",
+    "name_fr": "",
+    "name_en": "بئر توتة",
+    "wilaya_code": "16",
+    "phone": "023401417/023401419",
+    "fax": "023 40 14 16",
+    "email": "birtouta.alger@wilaya-alger.dz",
+    "communes": [
+      "1634",
+      "1635",
+      "1636"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر مراد رايس",
+    "name_fr": "",
+    "name_en": "بئر مراد رايس",
+    "wilaya_code": "16",
+    "phone": "021542425/021542426",
+    "fax": "021 54 16 46",
+    "email": "birmouradrais.alger@wilaya-alger.dz",
+    "communes": [
+      "1609",
+      "1612",
+      "1626",
+      "1628",
+      "1645"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "باب الوادي",
+    "name_fr": "",
+    "name_en": "باب الوادي",
+    "wilaya_code": "16",
+    "phone": "021970813/021970825",
+    "fax": "021 96 56 49",
+    "email": "babeloued.alger@wilaya-alger.dz",
+    "communes": [
+      "1605",
+      "1606",
+      "1607",
+      "1608",
+      "1625"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "براقي",
+    "name_fr": "",
+    "name_en": "براقي",
+    "wilaya_code": "16",
+    "phone": "023911427/023911432",
+    "fax": "023 91 14 29",
+    "email": "baraki.alger@wilaya-alger.dz",
+    "communes": [
+      "1614",
+      "1633",
+      "1637"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوزريعة",
+    "name_fr": "",
+    "name_en": "بوزريعة",
+    "wilaya_code": "16",
+    "phone": "023181347/023181466",
+    "fax": "023 18 14 16",
+    "email": "bouzareah.alger@wilaya-alger.dz",
+    "communes": [
+      "1610",
+      "1611",
+      "1622",
+      "1632"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حسين داي",
+    "name_fr": "",
+    "name_en": "حسين داي",
+    "wilaya_code": "16",
+    "phone": "021231389/021496689",
+    "fax": "021 47 73 04",
+    "email": "husseindey.alger@wilaya-alger.dz",
+    "communes": [
+      "1604",
+      "1617",
+      "1607",
+      "1631"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زرالدة",
+    "name_fr": "",
+    "name_en": "زرالدة",
+    "wilaya_code": "16",
+    "phone": "023323755/023323747",
+    "fax": "023 32 31 85",
+    "email": "zeralda.alger@wilaya-alger.dz",
+    "communes": [
+      "1644",
+      "1646",
+      "1650",
+      "1653",
+      "1655"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي امحمد",
+    "name_fr": "",
+    "name_en": "سيدي امحمد",
+    "wilaya_code": "16",
+    "phone": "021651095/021660525",
+    "fax": "021 66 05 56",
+    "email": "sidimhamed.alger@wilaya-alger.dz",
+    "communes": [
+      "1602",
+      "1603",
+      "1627"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أبو الحسن",
+    "name_fr": "",
+    "name_en": "أبو الحسن",
+    "wilaya_code": "17",
+    "phone": "027 75 52 17 / 09",
+    "fax": "027 75 53 93",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد بن عبد القادر",
+    "name_fr": "",
+    "name_en": "أولاد بن عبد القادر",
+    "wilaya_code": "17",
+    "phone": "027 40 47 03 / 06",
+    "fax": "027 40 47 01",
+    "email": "d_ouledbenaek@wilaya-chlef.dz",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد فارس",
+    "name_fr": "",
+    "name_en": "أولاد فارس",
+    "wilaya_code": "17",
+    "phone": "027 72 74 16 / 15",
+    "fax": "027 72 74 18",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الزبوجة",
+    "name_fr": "",
+    "name_en": "الزبوجة",
+    "wilaya_code": "17",
+    "phone": "027 75 20 83 / 90",
+    "fax": "027 75 21 60",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشلف",
+    "name_fr": "",
+    "name_en": "الشلف",
+    "wilaya_code": "17",
+    "phone": "027 77 55 49 /027 79 08 56",
+    "fax": "02777 09 62",
+    "email": "d_chlef@wilaya-chlef.dz",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الكريمية",
+    "name_fr": "",
+    "name_en": "الكريمية",
+    "wilaya_code": "17",
+    "phone": "027 70 94 24",
+    "fax": "027 70 96 45",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المرسى",
+    "name_fr": "",
+    "name_en": "المرسى",
+    "wilaya_code": "17",
+    "phone": "027 75 64 51",
+    "fax": "027 75 61 36",
+    "email": "dairaelmarsa2015@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني حواء",
+    "name_fr": "",
+    "name_en": "بني حواء",
+    "wilaya_code": "17",
+    "phone": "027 75 31 82 / 90",
+    "fax": "027 75 35 63",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقادير",
+    "name_fr": "",
+    "name_en": "بوقادير",
+    "wilaya_code": "17",
+    "phone": "027 74 97 24 / 18",
+    "fax": "027 74 10 90/07 57",
+    "email": "d_boukadir@wilaya-chlef.dz",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تاوقريت",
+    "name_fr": "",
+    "name_en": "تاوقريت",
+    "wilaya_code": "17",
+    "phone": "027 42 05 82/06 53/03 45",
+    "fax": "027 42 01 92/05 82",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تنس",
+    "name_fr": "",
+    "name_en": "تنس",
+    "wilaya_code": "17",
+    "phone": "027 76 70 43 /77 01",
+    "fax": "027 76 92 09/70 72",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين مران",
+    "name_fr": "",
+    "name_en": "عين مران",
+    "wilaya_code": "17",
+    "phone": "027 42 93 43",
+    "fax": "027 42 94 12",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي الفضة",
+    "name_fr": "",
+    "name_en": "وادي الفضة",
+    "wilaya_code": "17",
+    "phone": "027 44 70 16 / 17",
+    "fax": "027 44 75 05",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "السطارة",
+    "name_fr": "",
+    "name_en": "السطارة",
+    "wilaya_code": "18",
+    "phone": "034 53 34 00",
+    "fax": "034 53 32 04",
+    "email": "dairasettara@gmail.com",
+    "communes": [
+      "1811",
+      "1815"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشقفة",
+    "name_fr": "",
+    "name_en": "الشقفة",
+    "wilaya_code": "18",
+    "phone": "034 56 36 30 / 034 56 36 31",
+    "fax": "034 56 36 33 / 034 56 33 55",
+    "email": "",
+    "communes": [
+      "1807",
+      "1813",
+      "1820",
+      "1826"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الطاهير",
+    "name_fr": "",
+    "name_en": "الطاهير",
+    "wilaya_code": "18",
+    "phone": "034 55 33 07 / 034 55 30 79",
+    "fax": "034 55 33 09",
+    "email": "",
+    "communes": [
+      "1805",
+      "1806",
+      "1808",
+      "1819",
+      "1828"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العنصر",
+    "name_fr": "",
+    "name_en": "العنصر",
+    "wilaya_code": "18",
+    "phone": "034 53 25 20 / 034 53 25 24",
+    "fax": "034 53 24 39",
+    "email": "dairaelancer@gmail.com",
+    "communes": [
+      "1812",
+      "1816",
+      "1823",
+      "1825"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العوانة",
+    "name_fr": "",
+    "name_en": "العوانة",
+    "wilaya_code": "18",
+    "phone": "034 59 05 20 / 034 59 04 97",
+    "fax": "034 59 03 03",
+    "email": "",
+    "communes": [
+      "1803",
+      "1818"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الميلية",
+    "name_fr": "",
+    "name_en": "الميلية",
+    "wilaya_code": "18",
+    "phone": "034 52 10 88 / 034 52 11 11",
+    "fax": "034 52 10 89",
+    "email": "dairaelmilia18@gmail.com",
+    "communes": [
+      "1809",
+      "1821"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تاكسنة",
+    "name_fr": "",
+    "name_en": "تاكسنة",
+    "wilaya_code": "18",
+    "phone": "034 55 11 42 / 034 55 11 43",
+    "fax": "034 55 11 45",
+    "email": "",
+    "communes": [
+      "1814",
+      "1824"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جيجل",
+    "name_fr": "",
+    "name_en": "جيجل",
+    "wilaya_code": "18",
+    "phone": "034 47 22 30 / 034 49 65 14",
+    "fax": "034 47 19 94",
+    "email": "daira_jijel_algerie@yahoo.com",
+    "communes": [
+      "1801"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جيملة",
+    "name_fr": "",
+    "name_en": "جيملة",
+    "wilaya_code": "18",
+    "phone": "034 56 01 80",
+    "fax": "034 56 04 17",
+    "email": "dairadjimla@gmail.com",
+    "communes": [
+      "1822"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زيامة منصورية",
+    "name_fr": "",
+    "name_en": "زيامة منصورية",
+    "wilaya_code": "18",
+    "phone": "034 58 23 64 / 034 58 23 65",
+    "fax": "034 58 23 70 / 034 58 23 66",
+    "email": "",
+    "communes": [
+      "1804"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي معروف",
+    "name_fr": "",
+    "name_en": "سيدي معروف",
+    "wilaya_code": "18",
+    "phone": "034 53 01 01",
+    "fax": "034 53 02 44",
+    "email": "",
+    "communes": [
+      "1810",
+      "1827"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العلمة",
+    "name_fr": "",
+    "name_en": "العلمة",
+    "wilaya_code": "19",
+    "phone": "036 47 53 44/036 47 53 78",
+    "fax": "036 47 53 48",
+    "email": "Daira.eleulma@gmail.com/Contact.daira.eleulma@gmail.com",
+    "communes": [
+      "1920"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر العرش",
+    "name_fr": "",
+    "name_en": "بئر العرش",
+    "wilaya_code": "19",
+    "phone": "036 87 05 00/036 87 05 22",
+    "fax": "036 87 09 45/036 87 05 47",
+    "email": "dairabirelarch@gmail.com",
+    "communes": [
+      "1908",
+      "1925",
+      "1945",
+      "1959"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بابور",
+    "name_fr": "",
+    "name_en": "بابور",
+    "wilaya_code": "19",
+    "phone": "036 94 33 04",
+    "fax": "036 94 33 03",
+    "email": "dairababor@gmail.com",
+    "communes": [
+      "1916",
+      "1935"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني عزيز",
+    "name_fr": "",
+    "name_en": "بني عزيز",
+    "wilaya_code": "19",
+    "phone": "036 89 22 49/036 89 22 50",
+    "fax": "036 89 29 51/036 89 22 72",
+    "email": "Beniaziz.2015@gmail.com",
+    "communes": [
+      "1903",
+      "1912",
+      "1949"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني ورتيلان",
+    "name_fr": "",
+    "name_en": "بني ورتيلان",
+    "wilaya_code": "19",
+    "phone": "036 49 33 00/036 49 30 23",
+    "fax": "036 49 30 24",
+    "email": "Dairabeniourtilane@yahoo.fr",
+    "communes": [
+      "1909",
+      "1913",
+      "1922",
+      "1946"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوعنداس",
+    "name_fr": "",
+    "name_en": "بوعنداس",
+    "wilaya_code": "19",
+    "phone": "036 49 00 09/036 49 00 10",
+    "fax": "036 49 00 16",
+    "email": "bouandasdaira@yahoo.fr",
+    "communes": [
+      "1919",
+      "1930",
+      "1951",
+      "1954"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقاعة",
+    "name_fr": "",
+    "name_en": "بوقاعة",
+    "wilaya_code": "19",
+    "phone": "036 80 21 02/036 80 21 03",
+    "fax": "036 80 36 90",
+    "email": "dairabougaa@gmail.com",
+    "communes": [
+      "1906",
+      "1943",
+      "1953"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جميلة",
+    "name_fr": "",
+    "name_en": "جميلة",
+    "wilaya_code": "19",
+    "phone": "036 46 52 52/036 46 52 04",
+    "fax": "036 46 52 00",
+    "email": "daira.djemila@gmail.com",
+    "communes": [
+      "1921",
+      "1944"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام السخنة",
+    "name_fr": "",
+    "name_en": "حمام السخنة",
+    "wilaya_code": "19",
+    "phone": "036 95 83 01/036 95 83 02",
+    "fax": "036 95 84 35",
+    "email": "Daira.hsokhna@gmail.com",
+    "communes": [
+      "1932",
+      "1958"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام قرقور",
+    "name_fr": "",
+    "name_en": "حمام قرقور",
+    "wilaya_code": "19",
+    "phone": "036 49 91 01/036 49 91 08",
+    "fax": "036 49 91 03",
+    "email": "Hammamguer1950@gmail.com",
+    "communes": [
+      "1907",
+      "1950"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سطيف",
+    "name_fr": "",
+    "name_en": "سطيف",
+    "wilaya_code": "19",
+    "phone": "036 84 37 12/036 51 37 45",
+    "fax": "036 51 37 48",
+    "email": "Daira.setif@gmail.com",
+    "communes": [
+      "1901"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "صالح باي",
+    "name_fr": "",
+    "name_en": "صالح باي",
+    "wilaya_code": "19",
+    "phone": "036 58 63 91/036 58 63 92",
+    "fax": "036 58 63 56",
+    "email": "dairasalahbey19@gmail.com",
+    "communes": [
+      "1905",
+      "1910",
+      "1911",
+      "1923",
+      "1939"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عموشة",
+    "name_fr": "",
+    "name_en": "عموشة",
+    "wilaya_code": "19",
+    "phone": "036 71 01 54/036 71 01 55",
+    "fax": "036 71 01 56",
+    "email": "Daira.amoucha@gmail.com",
+    "communes": [
+      "1927",
+      "1938",
+      "1957"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين أرنات",
+    "name_fr": "",
+    "name_en": "عين أرنات",
+    "wilaya_code": "19",
+    "phone": "036 54 11 78/036 54 16 87",
+    "fax": "036 54 11 67",
+    "email": "Dairaainarnat1926@gmail.com",
+    "communes": [
+      "1914",
+      "1926",
+      "1933"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين أزال",
+    "name_fr": "",
+    "name_en": "عين أزال",
+    "wilaya_code": "19",
+    "phone": "036 55 41 41/036 55 42 42",
+    "fax": "036 95 56 00",
+    "email": "azeldaira@gmail.com",
+    "communes": [
+      "1918",
+      "1929",
+      "1934",
+      "1940"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الكبيرة",
+    "name_fr": "",
+    "name_en": "عين الكبيرة",
+    "wilaya_code": "19",
+    "phone": "036 59 62 23/036 59 62 87",
+    "fax": "036 59 62 30",
+    "email": "dairaaek@gmail.com",
+    "communes": [
+      "1902",
+      "1915",
+      "1924"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين ولمان",
+    "name_fr": "",
+    "name_en": "عين ولمان",
+    "wilaya_code": "19",
+    "phone": "036 56 43 00/036 56 43 03",
+    "fax": "036 56 43 02/036 56 43 03",
+    "email": "Daira.ainoulmene19@gmail.com",
+    "communes": [
+      "1904",
+      "1928",
+      "1952"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قجال",
+    "name_fr": "",
+    "name_en": "قجال",
+    "wilaya_code": "19",
+    "phone": "036 74 01 74/036 74 01 76",
+    "fax": "036 74 01 75",
+    "email": "d.guidjel1917@gmail.com",
+    "communes": [
+      "1917",
+      "1947"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قنزات",
+    "name_fr": "",
+    "name_en": "قنزات",
+    "wilaya_code": "19",
+    "phone": "036 80 94 40/036 80 95 42",
+    "fax": "036 80 91 08",
+    "email": "Guenzet.daira@gmail.com",
+    "communes": [
+      "1936",
+      "1941"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ماوكلان",
+    "name_fr": "",
+    "name_en": "ماوكلان",
+    "wilaya_code": "19",
+    "phone": "036 40 74 04/036 40 74 06",
+    "fax": "036 40 74 03",
+    "email": "dairamaoklane@yahoo.fr",
+    "communes": [
+      "1942",
+      "1955"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد ابراهيم",
+    "name_fr": "",
+    "name_en": "أولاد ابراهيم",
+    "wilaya_code": "20",
+    "phone": "048 33 32 39",
+    "fax": "048 33 31 75",
+    "email": "",
+    "communes": [
+      "2014",
+      "2015",
+      "2016"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحساسنة",
+    "name_fr": "",
+    "name_en": "الحساسنة",
+    "wilaya_code": "20",
+    "phone": "048 51 01 50",
+    "fax": "048 51 02 20",
+    "email": "",
+    "communes": [
+      "2010",
+      "2011",
+      "2013"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سعيدة",
+    "name_fr": "",
+    "name_en": "سعيدة",
+    "wilaya_code": "20",
+    "phone": "048 37 41 35",
+    "fax": "048 37 40 59",
+    "email": "",
+    "communes": [
+      "2001"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي بوبكر",
+    "name_fr": "",
+    "name_en": "سيدي بوبكر",
+    "wilaya_code": "20",
+    "phone": "048 50 41 57",
+    "fax": "048 50 41 49",
+    "email": "",
+    "communes": [
+      "2004",
+      "2008",
+      "2009"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الحجر",
+    "name_fr": "",
+    "name_en": "عين الحجر",
+    "wilaya_code": "20",
+    "phone": "048 50 30 06",
+    "fax": "048 50 27 58",
+    "email": "",
+    "communes": [
+      "2003",
+      "2005",
+      "2012"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "يوب",
+    "name_fr": "",
+    "name_en": "يوب",
+    "wilaya_code": "20",
+    "phone": "048 30 13 14",
+    "fax": "048 30 13 02",
+    "email": "",
+    "communes": [
+      "2002",
+      "2006"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد ابراهيم",
+    "name_fr": "",
+    "name_en": "أولاد ابراهيم",
+    "wilaya_code": "21",
+    "phone": "048 33 32 39",
+    "fax": "048 33 31 75",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحساسنة",
+    "name_fr": "",
+    "name_en": "الحساسنة",
+    "wilaya_code": "21",
+    "phone": "048 51 01 50",
+    "fax": "048 51 02 20",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سعيدة",
+    "name_fr": "",
+    "name_en": "سعيدة",
+    "wilaya_code": "21",
+    "phone": "048 37 41 35",
+    "fax": "048 37 40 59",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي بوبكر",
+    "name_fr": "",
+    "name_en": "سيدي بوبكر",
+    "wilaya_code": "21",
+    "phone": "048 50 41 57",
+    "fax": "048 50 41 49",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الحجر",
+    "name_fr": "",
+    "name_en": "عين الحجر",
+    "wilaya_code": "21",
+    "phone": "048 50 30 06",
+    "fax": "048 50 27 58",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "يوب",
+    "name_fr": "",
+    "name_en": "يوب",
+    "wilaya_code": "21",
+    "phone": "048 30 13 14",
+    "fax": "048 30 13 02",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بن باديس",
+    "name_fr": "",
+    "name_en": "بن باديس",
+    "wilaya_code": "22",
+    "phone": "048 73 22 18",
+    "fax": "048 73 22 20",
+    "email": "daira.benbadis@gmail.com",
+    "communes": [
+      "2209",
+      "2220",
+      "2245"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تسالة",
+    "name_fr": "",
+    "name_en": "تسالة",
+    "wilaya_code": "22",
+    "phone": "048 68 91 07-048 68 91 44",
+    "fax": "048 68 91 78",
+    "email": "dtessala@yahoo.com",
+    "communes": [
+      "2202",
+      "2215"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تلاغ",
+    "name_fr": "",
+    "name_en": "تلاغ",
+    "wilaya_code": "22",
+    "phone": "048 78 13 00- 048 78 13 01",
+    "fax": "048 78 11 60",
+    "email": "telagh2205@gmail.com",
+    "communes": [
+      "2205",
+      "2206",
+      "2232",
+      "2244"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تنيرة",
+    "name_fr": "",
+    "name_en": "تنيرة",
+    "wilaya_code": "22",
+    "phone": "048 71 20 15",
+    "fax": "048 71 20 18",
+    "email": "daira-tenira@outlook.fr",
+    "communes": [
+      "2217",
+      "2243",
+      "2251",
+      "2252"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "راس الماء",
+    "name_fr": "",
+    "name_en": "راس الماء",
+    "wilaya_code": "22",
+    "phone": "048 78 54 95",
+    "fax": "048 78 54 55",
+    "email": "",
+    "communes": [
+      "2223",
+      "2237",
+      "2250"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سفيزف",
+    "name_fr": "",
+    "name_en": "سفيزف",
+    "wilaya_code": "22",
+    "phone": "048 79 49 44",
+    "fax": "048 79 49 48",
+    "email": "",
+    "communes": [
+      "2226",
+      "2238"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي بلعباس",
+    "name_fr": "",
+    "name_en": "سيدي بلعباس",
+    "wilaya_code": "22",
+    "phone": "048 54 62 47-048 57 69 56",
+    "fax": "048 54 30 41- 048 54 36 37",
+    "email": "",
+    "communes": [
+      "2201"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي علي بن يوب",
+    "name_fr": "",
+    "name_en": "سيدي علي بن يوب",
+    "wilaya_code": "22",
+    "phone": "048 73 11 29",
+    "fax": "048 73 11 28",
+    "email": "daira_sidialibenyoub@yahoo.com",
+    "communes": [
+      "2207",
+      "2221",
+      "2246"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي علي بوسيدي",
+    "name_fr": "",
+    "name_en": "سيدي علي بوسيدي",
+    "wilaya_code": "22",
+    "phone": "048 53 31 15- 048 53 33 77",
+    "fax": "048 53 33 78",
+    "email": "",
+    "communes": [
+      "2208",
+      "2225",
+      "2234",
+      "2236"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي لحسن",
+    "name_fr": "",
+    "name_en": "سيدي لحسن",
+    "wilaya_code": "22",
+    "phone": "048 70 74 77",
+    "fax": "048 70 75 27",
+    "email": "daira.sidilahcen@gmail.com",
+    "communes": [
+      "2214",
+      "2227",
+      "2240"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين البرد",
+    "name_fr": "",
+    "name_en": "عين البرد",
+    "wilaya_code": "22",
+    "phone": "048 66 03 43- 048 66 03 88",
+    "fax": "048 66 01 17",
+    "email": "dairaainelberd@yahoo.com",
+    "communes": [
+      "2203",
+      "2215",
+      "2241"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مرحوم",
+    "name_fr": "",
+    "name_en": "مرحوم",
+    "wilaya_code": "22",
+    "phone": "048 67 31 32",
+    "fax": "048 67 31 29",
+    "email": "",
+    "communes": [
+      "2210",
+      "2235",
+      "2248"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مرين",
+    "name_fr": "",
+    "name_en": "مرين",
+    "wilaya_code": "22",
+    "phone": "048 67 12 67",
+    "fax": "048 67 14 57",
+    "email": "dairademerine@gmail.com",
+    "communes": [
+      "2211",
+      "2222",
+      "2231",
+      "2249"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مصطفى بن ابراهيم",
+    "name_fr": "",
+    "name_en": "مصطفى بن ابراهيم",
+    "wilaya_code": "22",
+    "phone": "048 71 61 51- 048 71 61 46",
+    "fax": "048 71 61 45",
+    "email": "daira.mostefabenbrahim@yahoo.com",
+    "communes": [
+      "2204",
+      "2213",
+      "2233",
+      "2242"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مولاي سليسن",
+    "name_fr": "",
+    "name_en": "مولاي سليسن",
+    "wilaya_code": "22",
+    "phone": "048 78 43 21",
+    "fax": "048 78 43 55",
+    "email": "",
+    "communes": [
+      "2218",
+      "2219",
+      "2224"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البوني",
+    "name_fr": "",
+    "name_en": "البوني",
+    "wilaya_code": "23",
+    "phone": "038 58 45 40 / 038 58 45 41",
+    "fax": "038 58 45 47",
+    "email": "",
+    "communes": [
+      "2305"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحجار",
+    "name_fr": "",
+    "name_en": "الحجار",
+    "wilaya_code": "23",
+    "phone": "038 89 11 99",
+    "fax": "038 89 21 45",
+    "email": "",
+    "communes": [
+      "2303",
+      "2311"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برحال",
+    "name_fr": "",
+    "name_en": "برحال",
+    "wilaya_code": "23",
+    "phone": "038 87 84 30",
+    "fax": "038 87 81 15",
+    "email": "",
+    "communes": [
+      "2302",
+      "2306",
+      "2312"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شطايبي",
+    "name_fr": "",
+    "name_en": "شطايبي",
+    "wilaya_code": "23",
+    "phone": "038 87 04 04",
+    "fax": "038 87 04 13",
+    "email": "",
+    "communes": [
+      "2310"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عنابة",
+    "name_fr": "",
+    "name_en": "عنابة",
+    "wilaya_code": "23",
+    "phone": "038 86 58 45",
+    "fax": "038 86 83 59",
+    "email": "",
+    "communes": [
+      "2301",
+      "2308"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الباردة",
+    "name_fr": "",
+    "name_en": "عين الباردة",
+    "wilaya_code": "23",
+    "phone": "038 49 01 68 / 038 49 01 70",
+    "fax": "038 49 03 00",
+    "email": "",
+    "communes": [
+      "2304",
+      "2309"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوشقوف",
+    "name_fr": "",
+    "name_en": "بوشقوف",
+    "wilaya_code": "24",
+    "phone": "037 22 62 69",
+    "fax": "037 22 70 85",
+    "email": "",
+    "communes": [
+      "2406",
+      "2414",
+      "2425",
+      "2430"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام النبايل",
+    "name_fr": "",
+    "name_en": "حمام النبايل",
+    "wilaya_code": "24",
+    "phone": "037 22 03 11",
+    "fax": "037 22 02 01",
+    "email": "",
+    "communes": [
+      "2409",
+      "2422",
+      "2433"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام دباغ",
+    "name_fr": "",
+    "name_en": "حمام دباغ",
+    "wilaya_code": "24",
+    "phone": "037 14 92 01",
+    "fax": "037 14 92 06",
+    "email": "",
+    "communes": [
+      "2412",
+      "2419",
+      "2428"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خزارة",
+    "name_fr": "",
+    "name_en": "خزارة",
+    "wilaya_code": "24",
+    "phone": "037 13 05 83",
+    "fax": "037 13 05 84",
+    "email": "",
+    "communes": [
+      "2407",
+      "2415",
+      "2417"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين حساينية",
+    "name_fr": "",
+    "name_en": "عين حساينية",
+    "wilaya_code": "24",
+    "phone": "037 24 11 50",
+    "fax": "037 24 15 00",
+    "email": "",
+    "communes": [
+      "2408",
+      "2424",
+      "2429"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين مخلوف",
+    "name_fr": "",
+    "name_en": "عين مخلوف",
+    "wilaya_code": "24",
+    "phone": "037 27 72 64",
+    "fax": "037 28 44 04",
+    "email": "",
+    "communes": [
+      "2405",
+      "2413",
+      "2423"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قالمة",
+    "name_fr": "",
+    "name_en": "قالمة",
+    "wilaya_code": "24",
+    "phone": "037 14 03 11",
+    "fax": "037 14 03 12",
+    "email": "",
+    "communes": [
+      "2401",
+      "2411"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قلعة بوصبع",
+    "name_fr": "",
+    "name_en": "قلعة بوصبع",
+    "wilaya_code": "24",
+    "phone": "037 19 33 78",
+    "fax": "037 19 35 74",
+    "email": "",
+    "communes": [
+      "2402",
+      "2410",
+      "2416",
+      "2418",
+      "2431",
+      "2434"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "هيليوبوليس",
+    "name_fr": "",
+    "name_en": "هيليوبوليس",
+    "wilaya_code": "24",
+    "phone": "037 13 45 94",
+    "fax": "037 13 46 19",
+    "email": "",
+    "communes": [
+      "2403",
+      "2420",
+      "2426"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي الزناتي",
+    "name_fr": "",
+    "name_en": "وادي الزناتي",
+    "wilaya_code": "24",
+    "phone": "037 18 02 00",
+    "fax": "037 18 01 68",
+    "email": "",
+    "communes": [
+      "2404",
+      "2421",
+      "2432"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ابن زياد",
+    "name_fr": "",
+    "name_en": "ابن زياد",
+    "wilaya_code": "25",
+    "phone": "031815278",
+    "fax": "031815351",
+    "email": "",
+    "communes": [
+      "2511",
+      "2512"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الخروب",
+    "name_fr": "",
+    "name_en": "الخروب",
+    "wilaya_code": "25",
+    "phone": "031959430",
+    "fax": "031801520",
+    "email": "",
+    "communes": [
+      "2506",
+      "2509",
+      "2510"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حامة بوزيان",
+    "name_fr": "",
+    "name_en": "حامة بوزيان",
+    "wilaya_code": "25",
+    "phone": "031840756",
+    "fax": "031841238",
+    "email": "",
+    "communes": [
+      "2502",
+      "2505"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زيغود يوسف",
+    "name_fr": "",
+    "name_en": "زيغود يوسف",
+    "wilaya_code": "25",
+    "phone": "031919155",
+    "fax": "031919105",
+    "email": "",
+    "communes": [
+      "2504",
+      "2508"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين عبيد",
+    "name_fr": "",
+    "name_en": "عين عبيد",
+    "wilaya_code": "25",
+    "phone": "031816112",
+    "fax": "031816499",
+    "email": "",
+    "communes": [
+      "2503",
+      "2507"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قسنطينة",
+    "name_fr": "",
+    "name_en": "قسنطينة",
+    "wilaya_code": "25",
+    "phone": "031927573",
+    "fax": "031925660",
+    "email": "DairaConstantine@gmail.com",
+    "communes": [
+      "2501"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوشقوف",
+    "name_fr": "",
+    "name_en": "بوشقوف",
+    "wilaya_code": "26",
+    "phone": "037 22 62 69",
+    "fax": "037 22 70 85",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام النبايل",
+    "name_fr": "",
+    "name_en": "حمام النبايل",
+    "wilaya_code": "26",
+    "phone": "037 22 03 11",
+    "fax": "037 22 02 01",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام دباغ",
+    "name_fr": "",
+    "name_en": "حمام دباغ",
+    "wilaya_code": "26",
+    "phone": "037 14 92 01",
+    "fax": "037 14 92 06",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خزارة",
+    "name_fr": "",
+    "name_en": "خزارة",
+    "wilaya_code": "26",
+    "phone": "037 13 05 83",
+    "fax": "037 13 05 84",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين حساينية",
+    "name_fr": "",
+    "name_en": "عين حساينية",
+    "wilaya_code": "26",
+    "phone": "037 24 11 50",
+    "fax": "037 24 15 00",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين مخلوف",
+    "name_fr": "",
+    "name_en": "عين مخلوف",
+    "wilaya_code": "26",
+    "phone": "037 27 72 64",
+    "fax": "037 28 44 04",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قالمة",
+    "name_fr": "",
+    "name_en": "قالمة",
+    "wilaya_code": "26",
+    "phone": "037 14 03 11",
+    "fax": "037 14 03 12",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قلعة بوصبع",
+    "name_fr": "",
+    "name_en": "قلعة بوصبع",
+    "wilaya_code": "26",
+    "phone": "037 19 33 78",
+    "fax": "037 19 35 74",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "هيليوبوليس",
+    "name_fr": "",
+    "name_en": "هيليوبوليس",
+    "wilaya_code": "26",
+    "phone": "037 13 45 94",
+    "fax": "037 13 46 19",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي الزناتي",
+    "name_fr": "",
+    "name_en": "وادي الزناتي",
+    "wilaya_code": "26",
+    "phone": "037 18 02 00",
+    "fax": "037 18 01 68",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقيراط",
+    "name_fr": "",
+    "name_en": "بوقيراط",
+    "wilaya_code": "27",
+    "phone": "045 22 41 17/045 22 42 98",
+    "fax": "045 22 51 07",
+    "email": "",
+    "communes": [
+      "2719",
+      "2720",
+      "2724",
+      "2730"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حاسي ماماش",
+    "name_fr": "",
+    "name_en": "حاسي ماماش",
+    "wilaya_code": "27",
+    "phone": "045 38 95 47/045 38 95 05",
+    "fax": "045 38 95 05",
+    "email": "",
+    "communes": [
+      "2704",
+      "2706",
+      "2727"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خير الدين",
+    "name_fr": "",
+    "name_en": "خير الدين",
+    "wilaya_code": "27",
+    "phone": "045 42 81 16/045 42 81 17",
+    "fax": "045 42 81 65",
+    "email": "",
+    "communes": [
+      "2702",
+      "2711",
+      "2728"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي علي",
+    "name_fr": "",
+    "name_en": "سيدي علي",
+    "wilaya_code": "27",
+    "phone": "045 45 22 22/045 45 23 23",
+    "fax": "045 45 13 13",
+    "email": "",
+    "communes": [
+      "2712",
+      "2726",
+      "2729"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي لخضر",
+    "name_fr": "",
+    "name_en": "سيدي لخضر",
+    "wilaya_code": "27",
+    "phone": "045 24 75 75/045 24 71 05",
+    "fax": "045 24 74 24",
+    "email": "",
+    "communes": [
+      "2713",
+      "2714",
+      "2716"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عشعاشة",
+    "name_fr": "",
+    "name_en": "عشعاشة",
+    "wilaya_code": "27",
+    "phone": "045 45 03 30/045 45 03 27",
+    "fax": "045 45 03 28",
+    "email": "",
+    "communes": [
+      "2715",
+      "2717",
+      "2725"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين تادلس",
+    "name_fr": "",
+    "name_en": "عين تادلس",
+    "wilaya_code": "27",
+    "phone": "045 22 60 54/045 22 60 55",
+    "fax": "045 33 73 25",
+    "email": "",
+    "communes": [
+      "2707",
+      "2708",
+      "2709",
+      "2710"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين نويسي",
+    "name_fr": "",
+    "name_en": "عين نويسي",
+    "wilaya_code": "27",
+    "phone": "045 37 43 15",
+    "fax": "045 37 43 16",
+    "email": "",
+    "communes": [
+      "2703",
+      "2705",
+      "2732"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ماسرة",
+    "name_fr": "",
+    "name_en": "ماسرة",
+    "wilaya_code": "27",
+    "phone": "045 48 34 39/045 48 34 40",
+    "fax": "045 48 35 23",
+    "email": "",
+    "communes": [
+      "2721",
+      "2722",
+      "2723",
+      "2731"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مستغانم",
+    "name_fr": "",
+    "name_en": "مستغانم",
+    "wilaya_code": "27",
+    "phone": "045 30 92 16/045 30 92 19",
+    "fax": "045 30 92 20",
+    "email": "",
+    "communes": [
+      "2701"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد عنتر",
+    "name_fr": "",
+    "name_en": "أولاد عنتر",
+    "wilaya_code": "28",
+    "phone": "025 69 01 05",
+    "fax": "025 69 01 03",
+    "email": "dairaouledantar@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البرواقية",
+    "name_fr": "",
+    "name_en": "البرواقية",
+    "wilaya_code": "28",
+    "phone": "025 77 41 10 /025 77 46 24 /025 77 53 41",
+    "fax": "025 77 54 01",
+    "email": "dberoughia2602@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "السواقي",
+    "name_fr": "",
+    "name_en": "السواقي",
+    "wilaya_code": "28",
+    "phone": "025 75 01 12",
+    "fax": "025 75 05 71",
+    "email": "dairasouagui@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الشهبونية",
+    "name_fr": "",
+    "name_en": "الشهبونية",
+    "wilaya_code": "28",
+    "phone": "025 70 71 03",
+    "fax": "025 70 71 07",
+    "email": "dairachahbounia2638@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العزيزية",
+    "name_fr": "",
+    "name_en": "العزيزية",
+    "wilaya_code": "28",
+    "phone": "025 71 05 79 /025 71 04 50",
+    "fax": "025 71 05 79 /025 71 04 50",
+    "email": "daira.elazizia@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العمارية",
+    "name_fr": "",
+    "name_en": "العمارية",
+    "wilaya_code": "28",
+    "phone": "025 76 31 28",
+    "fax": "025 76 31 86",
+    "email": "daira.elomaria@gmail.com",
+    "communes": [
+      "2821"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القلب الكبير",
+    "name_fr": "",
+    "name_en": "القلب الكبير",
+    "wilaya_code": "28",
+    "phone": "025 75 82 30 /025 75 82 57",
+    "fax": "025 75 82 30 /025 75 81 26",
+    "email": "daira.elguelbelkebir@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المدية",
+    "name_fr": "",
+    "name_en": "المدية",
+    "wilaya_code": "28",
+    "phone": "025 78 18 50",
+    "fax": "025 78 20 98",
+    "email": "dairamedea@hotmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني سليمان",
+    "name_fr": "",
+    "name_en": "بني سليمان",
+    "wilaya_code": "28",
+    "phone": "025 71 43 59",
+    "fax": "025 71 51 58",
+    "email": "dbenislimane2604@gmail.com",
+    "communes": [
+      "2845"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تابلاط",
+    "name_fr": "",
+    "name_en": "تابلاط",
+    "wilaya_code": "28",
+    "phone": "025 52 13 50",
+    "fax": "025 52 13 01",
+    "email": "dairadetablat@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سغوان",
+    "name_fr": "",
+    "name_en": "سغوان",
+    "wilaya_code": "28",
+    "phone": "025 70 70 98",
+    "fax": "025 70 70 25",
+    "email": "dairaseghouane@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سي المحجوب",
+    "name_fr": "",
+    "name_en": "سي المحجوب",
+    "wilaya_code": "28",
+    "phone": "025 74 02 99",
+    "fax": "025 74 03 06",
+    "email": "daira2644@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي نعمان",
+    "name_fr": "",
+    "name_en": "سيدي نعمان",
+    "wilaya_code": "28",
+    "phone": "025 71 83 25 /025 71 81 45",
+    "fax": "025 71 81 45",
+    "email": "daira2626sna@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شلالة العذاورة",
+    "name_fr": "",
+    "name_en": "شلالة العذاورة",
+    "wilaya_code": "28",
+    "phone": "025 75 14 79 /025 75 14 80",
+    "fax": "025 75 17 88",
+    "email": "sgdaira.cea@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عزيز",
+    "name_fr": "",
+    "name_en": "عزيز",
+    "wilaya_code": "28",
+    "phone": "025 69 81 06",
+    "fax": "025 69 83 03",
+    "email": "daira.aziz@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عوامري",
+    "name_fr": "",
+    "name_en": "عوامري",
+    "wilaya_code": "28",
+    "phone": "025 74 82 83",
+    "fax": "025 74 81 91",
+    "email": "daira.ouamri@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين بوسيف",
+    "name_fr": "",
+    "name_en": "عين بوسيف",
+    "wilaya_code": "28",
+    "phone": "025 55 05 35",
+    "fax": "025 55 05 35",
+    "email": "dainboucif2606@gmail.com",
+    "communes": [
+      "2838"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قصر البخاري",
+    "name_fr": "",
+    "name_en": "قصر البخاري",
+    "wilaya_code": "28",
+    "phone": "025 69 30 05",
+    "fax": "025 69 30 06 /025 69 22 23 /025 69 31 03",
+    "email": "daira.keb2635@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وزرة",
+    "name_fr": "",
+    "name_en": "وزرة",
+    "wilaya_code": "28",
+    "phone": "025 79 72 42",
+    "fax": "025 79 70 08",
+    "email": "daira.ouzera@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البرج",
+    "name_fr": "",
+    "name_en": "البرج",
+    "wilaya_code": "29",
+    "phone": "045 98 18 26/045 98 19 99",
+    "fax": "045 98 18 24",
+    "email": "",
+    "communes": [
+      "2917",
+      "2920",
+      "2921"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحشم",
+    "name_fr": "",
+    "name_en": "الحشم",
+    "wilaya_code": "29",
+    "phone": "045 80 51 13/045 80 58 17",
+    "fax": "045 80 55 96",
+    "email": "",
+    "communes": [
+      "2907",
+      "2909",
+      "2945"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المحمدية",
+    "name_fr": "",
+    "name_en": "المحمدية",
+    "wilaya_code": "29",
+    "phone": "045 94 96 05/045 94 96 06/045 94 97 25",
+    "fax": "045 94 96 10",
+    "email": "",
+    "communes": [
+      "2931",
+      "2932",
+      "2933",
+      "2934",
+      "2935",
+      "2936"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوحنيفية",
+    "name_fr": "",
+    "name_en": "بوحنيفية",
+    "wilaya_code": "29",
+    "phone": "045 76 71 51/045 76 76 15",
+    "fax": "045 76 76 02",
+    "email": "",
+    "communes": [
+      "2902",
+      "2904",
+      "2938"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيزي",
+    "name_fr": "",
+    "name_en": "تيزي",
+    "wilaya_code": "29",
+    "phone": "045 75 80 51/045 75 80 59",
+    "fax": "045 75 83 52",
+    "email": "",
+    "communes": [
+      "2903",
+      "2913",
+      "2940"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيغنيف",
+    "name_fr": "",
+    "name_en": "تيغنيف",
+    "wilaya_code": "29",
+    "phone": "045 97 23 78/045 97 24 13",
+    "fax": "045 97 23 80",
+    "email": "",
+    "communes": [
+      "2906",
+      "2908",
+      "2947"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زهانة",
+    "name_fr": "",
+    "name_en": "زهانة",
+    "wilaya_code": "29",
+    "phone": "045 64 12 00/045 64 13 55",
+    "fax": "045 64 13 10",
+    "email": "zahana2930gmail@.com",
+    "communes": [
+      "2929",
+      "2930"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيق",
+    "name_fr": "",
+    "name_en": "سيق",
+    "wilaya_code": "29",
+    "phone": "045 64 77 04/045 64 79 19",
+    "fax": "045 64 77 35",
+    "email": "",
+    "communes": [
+      "2926",
+      "2937",
+      "2943"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عقاز",
+    "name_fr": "",
+    "name_en": "عقاز",
+    "wilaya_code": "29",
+    "phone": "045 64 32 22/045 64 33 46",
+    "fax": "045 64 33 30",
+    "email": "oggaz27gmail@.com",
+    "communes": [
+      "2928",
+      "2944"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عوف",
+    "name_fr": "",
+    "name_en": "عوف",
+    "wilaya_code": "29",
+    "phone": "045 73 62 06/045 73 64 66",
+    "fax": "045 73 62 08",
+    "email": "",
+    "communes": [
+      "2919",
+      "2923",
+      "2941"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين فارس",
+    "name_fr": "",
+    "name_en": "عين فارس",
+    "wilaya_code": "29",
+    "phone": "045 98 80 69/045 98 81 16",
+    "fax": "045 98 80 63",
+    "email": "",
+    "communes": [
+      "2924",
+      "2939"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين فكان",
+    "name_fr": "",
+    "name_en": "عين فكان",
+    "wilaya_code": "29",
+    "phone": "045 72 62 10/045 72 66 35",
+    "fax": "045 72 64 22",
+    "email": "ainfekandaira@gmail.com",
+    "communes": [
+      "2918",
+      "2925"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "غريس",
+    "name_fr": "",
+    "name_en": "غريس",
+    "wilaya_code": "29",
+    "phone": "045 74 81 62/045 74 93 99",
+    "fax": "045 74 81 64",
+    "email": "",
+    "communes": [
+      "2905",
+      "2912",
+      "2914",
+      "2915",
+      "2916"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "معسكر",
+    "name_fr": "",
+    "name_en": "معسكر",
+    "wilaya_code": "29",
+    "phone": "045 71 50 49/045 71 59 89",
+    "fax": "045 71 56 43",
+    "email": "",
+    "communes": [
+      "2901"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي الأبطال",
+    "name_fr": "",
+    "name_en": "وادي الأبطال",
+    "wilaya_code": "29",
+    "phone": "045 88 71 31/045 88 71 98",
+    "fax": "045 88 75 02",
+    "email": "",
+    "communes": [
+      "2910",
+      "2911",
+      "2946"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي التاغية",
+    "name_fr": "",
+    "name_en": "وادي التاغية",
+    "wilaya_code": "29",
+    "phone": "045 74 06 82/045 74 09 99",
+    "fax": "045 74 06 93",
+    "email": "",
+    "communes": [
+      "2922",
+      "2942"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البرمة",
+    "name_fr": "",
+    "name_en": "البرمة",
+    "wilaya_code": "30",
+    "phone": "029 75 31 05",
+    "fax": "029 75 31 04",
+    "email": "",
+    "communes": [
+      "3021"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحجيرة",
+    "name_fr": "",
+    "name_en": "الحجيرة",
+    "wilaya_code": "30",
+    "phone": "029 61 23 86",
+    "fax": "029 61 24 79",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "انقوسة",
+    "name_fr": "",
+    "name_en": "انقوسة",
+    "wilaya_code": "30",
+    "phone": "029 72 39 07/029 72 39 08",
+    "fax": "029 72 39 03",
+    "email": "",
+    "communes": [
+      "3003"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تماسين",
+    "name_fr": "",
+    "name_en": "تماسين",
+    "wilaya_code": "30",
+    "phone": "029 63 39 49/02 963 34 39",
+    "fax": "029 63 48 50",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حاسي مسعود",
+    "name_fr": "",
+    "name_en": "حاسي مسعود",
+    "wilaya_code": "30",
+    "phone": "029 74 50 53/029 74 50 52",
+    "fax": "029 74 50 49",
+    "email": "",
+    "communes": [
+      "3004"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي خويلد",
+    "name_fr": "",
+    "name_en": "سيدي خويلد",
+    "wilaya_code": "30",
+    "phone": "029 77 21 05/029 77 21 08",
+    "fax": "029 77 21 00",
+    "email": "",
+    "communes": [
+      "3002",
+      "3011",
+      "3012"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ورقلة",
+    "name_fr": "",
+    "name_en": "ورقلة",
+    "wilaya_code": "30",
+    "phone": "029 71 09 14/029 71 09 13",
+    "fax": "029 71 09 11",
+    "email": "",
+    "communes": [
+      "3001",
+      "3005"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أرزيو",
+    "name_fr": "",
+    "name_en": "أرزيو",
+    "wilaya_code": "31",
+    "phone": "041 79 30 10/041 79 30 12",
+    "fax": "041 79 30 11",
+    "email": "N E A N T",
+    "communes": [
+      "3106",
+      "3122"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "السانية",
+    "name_fr": "",
+    "name_en": "السانية",
+    "wilaya_code": "31",
+    "phone": "041 58 23 30/041 58 34 84",
+    "fax": "041 58 43 49",
+    "email": "N E A N T",
+    "communes": [
+      "3105",
+      "3113",
+      "3117"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر الجير",
+    "name_fr": "",
+    "name_en": "بئر الجير",
+    "wilaya_code": "31",
+    "phone": "041 27 37 56/041 27 37 57",
+    "fax": "041 27 38 14",
+    "email": "N E A N T",
+    "communes": [
+      "3103",
+      "3104",
+      "3119"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بطيوة",
+    "name_fr": "",
+    "name_en": "بطيوة",
+    "wilaya_code": "31",
+    "phone": "041 76 96 23/041 76 96 31",
+    "fax": "041 76 96 24",
+    "email": "N E A N T",
+    "communes": [
+      "3107",
+      "3108",
+      "3126"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوتليليس",
+    "name_fr": "",
+    "name_en": "بوتليليس",
+    "wilaya_code": "31",
+    "phone": "041 19 61 99/041 19 65 66",
+    "fax": "041 19 62 90",
+    "email": "N E A N T",
+    "communes": [
+      "3123",
+      "3124",
+      "3125"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الترك",
+    "name_fr": "",
+    "name_en": "عين الترك",
+    "wilaya_code": "31",
+    "phone": "041 10 07 96/041 10 09 30",
+    "fax": "041 10 04 15",
+    "email": "dairaainturck@gmail.com",
+    "communes": [
+      "3109",
+      "3110",
+      "3115"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قديل",
+    "name_fr": "",
+    "name_en": "قديل",
+    "wilaya_code": "31",
+    "phone": "041 68 12 01/041 68 12 02",
+    "fax": "041 68 12 05",
+    "email": "N E A N T",
+    "communes": [
+      "3102",
+      "3120",
+      "3121"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي تليلات",
+    "name_fr": "",
+    "name_en": "وادي تليلات",
+    "wilaya_code": "31",
+    "phone": "041 18 71 37/041 18 71 38",
+    "fax": "041 18 87 88",
+    "email": "N E A N T",
+    "communes": [
+      "3111",
+      "3112",
+      "3114",
+      "3118"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وهران",
+    "name_fr": "",
+    "name_en": "وهران",
+    "wilaya_code": "31",
+    "phone": "041 42 13 11/041 42 14 61",
+    "fax": "041 42 16 25",
+    "email": "N E A N T",
+    "communes": [
+      "3101"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البيض",
+    "name_fr": "",
+    "name_en": "البيض",
+    "wilaya_code": "32",
+    "phone": "049 61 32 57",
+    "fax": "049 61 36 60",
+    "email": "NEANT",
+    "communes": [
+      "3201"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوسمغون",
+    "name_fr": "",
+    "name_en": "بوسمغون",
+    "wilaya_code": "32",
+    "phone": "049 63 13 22",
+    "fax": "049 63 15 99",
+    "email": "",
+    "communes": [
+      "3203",
+      "3206",
+      "3215",
+      "3216"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوعلام",
+    "name_fr": "",
+    "name_en": "بوعلام",
+    "wilaya_code": "32",
+    "phone": "049 65 43 66",
+    "fax": "049 65 40 19",
+    "email": "",
+    "communes": [
+      "3204",
+      "3217"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوقطب",
+    "name_fr": "",
+    "name_en": "بوقطب",
+    "wilaya_code": "32",
+    "phone": "049 62 33 12",
+    "fax": "049 62 33 10",
+    "email": "",
+    "communes": [
+      "3211",
+      "3212",
+      "3214"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "رقاصة",
+    "name_fr": "",
+    "name_en": "رقاصة",
+    "wilaya_code": "32",
+    "phone": "049 61 02 73",
+    "fax": "049 61 02 74",
+    "email": "",
+    "communes": [
+      "3202",
+      "3210",
+      "3222"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إن أمناس",
+    "name_fr": "",
+    "name_en": "إن أمناس",
+    "wilaya_code": "33",
+    "phone": "029 45 98 84",
+    "fax": "029 45 98 85",
+    "email": "",
+    "communes": [
+      "3303",
+      "3304",
+      "3306"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "إيليزي",
+    "name_fr": "",
+    "name_en": "إيليزي",
+    "wilaya_code": "33",
+    "phone": "029 40 02 62",
+    "fax": "029 40 02 67",
+    "email": "",
+    "communes": [
+      "3301"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحمادية",
+    "name_fr": "",
+    "name_en": "الحمادية",
+    "wilaya_code": "34",
+    "phone": "035 71 02 04",
+    "fax": "035 71 02 37",
+    "email": "daira3411@gmail.com",
+    "communes": [
+      "3411",
+      "3422",
+      "3427",
+      "3433"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المنصورة",
+    "name_fr": "",
+    "name_en": "المنصورة",
+    "wilaya_code": "34",
+    "phone": "035 85 72 26",
+    "fax": "035 85 72 30",
+    "email": "",
+    "communes": [
+      "3404",
+      "3405",
+      "3406",
+      "3417",
+      "3434"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر قاصد علي",
+    "name_fr": "",
+    "name_en": "بئر قاصد علي",
+    "wilaya_code": "34",
+    "phone": "035 78 63 01",
+    "fax": "035 78 64 12",
+    "email": "",
+    "communes": [
+      "3410",
+      "3420",
+      "3431"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج الغدير",
+    "name_fr": "",
+    "name_en": "برج الغدير",
+    "wilaya_code": "34",
+    "phone": "035 86 16 08 /035 86 16 09",
+    "fax": "035 86 16 06",
+    "email": "dairabordjghedir@hotmail.com",
+    "communes": [
+      "3409",
+      "3412",
+      "3421",
+      "3428",
+      "3432"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج بوعريريج",
+    "name_fr": "",
+    "name_en": "برج بوعريريج",
+    "wilaya_code": "34",
+    "phone": "035 72 22 31",
+    "fax": "035 72 22 34",
+    "email": "",
+    "communes": [
+      "3401"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج زمورة",
+    "name_fr": "",
+    "name_en": "برج زمورة",
+    "wilaya_code": "34",
+    "phone": "035 89 50 16",
+    "fax": "035 89 50 18",
+    "email": "",
+    "communes": [
+      "3403",
+      "3418",
+      "3429"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جعافرة",
+    "name_fr": "",
+    "name_en": "جعافرة",
+    "wilaya_code": "34",
+    "phone": "035 75 91 01",
+    "fax": "035 75 71 03",
+    "email": "",
+    "communes": [
+      "3415",
+      "3416",
+      "3424",
+      "3425"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "رأس الوادي",
+    "name_fr": "",
+    "name_en": "رأس الوادي",
+    "wilaya_code": "34",
+    "phone": "035 63 91 90/034 63 91 93",
+    "fax": "035 63 91 24",
+    "email": "",
+    "communes": [
+      "3402",
+      "3417",
+      "3430"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين تاغروت",
+    "name_fr": "",
+    "name_en": "عين تاغروت",
+    "wilaya_code": "34",
+    "phone": "035 85 13 04/035 85 13 09",
+    "fax": "035 85 13 18",
+    "email": "",
+    "communes": [
+      "3408",
+      "3426"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مجانة",
+    "name_fr": "",
+    "name_en": "مجانة",
+    "wilaya_code": "34",
+    "phone": "035 70 51 31",
+    "fax": "035 70 50 40",
+    "email": "",
+    "communes": [
+      "3407",
+      "3413",
+      "3414",
+      "3419"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الثنية",
+    "name_fr": "",
+    "name_en": "الثنية",
+    "wilaya_code": "35",
+    "phone": "024 96 31 70/024 96 31 69",
+    "fax": "024 96 31 66 / 024 96 31 68",
+    "email": "daira_thenia@outlook.fr",
+    "communes": [
+      "3514",
+      "3524",
+      "3525",
+      "3526"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الناصرية",
+    "name_fr": "",
+    "name_en": "الناصرية",
+    "wilaya_code": "35",
+    "phone": "024 77 01 17",
+    "fax": "024 77 01 22",
+    "email": "daira_naciria@yahoo.fr",
+    "communes": [
+      "3507",
+      "3521"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج منايل",
+    "name_fr": "",
+    "name_en": "برج منايل",
+    "wilaya_code": "35",
+    "phone": "024 78 74 38/024 78 74 39",
+    "fax": "024 78 74 37",
+    "email": "",
+    "communes": [
+      "3504",
+      "3508",
+      "3510",
+      "3529"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بغلية",
+    "name_fr": "",
+    "name_en": "بغلية",
+    "wilaya_code": "35",
+    "phone": "024 76 04 23  /  024 76 04 25",
+    "fax": "024 76 04 21",
+    "email": "dairabaghlia2015@gmail.com",
+    "communes": [
+      "3505",
+      "3506",
+      "3520"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بودواو",
+    "name_fr": "",
+    "name_en": "بودواو",
+    "wilaya_code": "35",
+    "phone": "024 74 94 20 / 024 74 94 21",
+    "fax": "024 74 94 16",
+    "email": "",
+    "communes": [
+      "3502",
+      "3519",
+      "3527",
+      "3528",
+      "3532"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بومرداس",
+    "name_fr": "",
+    "name_en": "بومرداس",
+    "wilaya_code": "35",
+    "phone": "024 79 75 21/ 024  79 75 18/ 024 79 75 19",
+    "fax": "024 79 75  21",
+    "email": "daira.boumerdes@gmail.com",
+    "communes": [
+      "3501",
+      "3512",
+      "3516"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خميس الخشنة",
+    "name_fr": "",
+    "name_en": "خميس الخشنة",
+    "wilaya_code": "35",
+    "phone": "024 97 30 70/024 97 32 99",
+    "fax": "024 97 33 05",
+    "email": "dairakeh17@yahoo.com",
+    "communes": [
+      "3517",
+      "3518",
+      "3530",
+      "3531"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "دلس",
+    "name_fr": "",
+    "name_en": "دلس",
+    "wilaya_code": "35",
+    "phone": "024 76 34 77/024 76 34 79/024 76 34 76",
+    "fax": "024 76 34 79/024 76 34 80",
+    "email": "dairadellys17@gmail.com",
+    "communes": [
+      "3503",
+      "3522",
+      "3523"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "يسر",
+    "name_fr": "",
+    "name_en": "يسر",
+    "wilaya_code": "35",
+    "phone": "024 71 31 12/024 71 31 15",
+    "fax": "024 71 31 13",
+    "email": "isser_daira@yahoo.fr",
+    "communes": [
+      "3509",
+      "3511",
+      "3513",
+      "3515"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البسباس",
+    "name_fr": "",
+    "name_en": "البسباس",
+    "wilaya_code": "36",
+    "phone": "038 39 81 02",
+    "fax": "038 39 81 46",
+    "email": "NEANT",
+    "communes": [
+      "3616",
+      "3617",
+      "3619"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الذرعان",
+    "name_fr": "",
+    "name_en": "الذرعان",
+    "wilaya_code": "36",
+    "phone": "038 38 83 85",
+    "fax": "038 38 88 89",
+    "email": "dairadrean@gmail.com",
+    "communes": [
+      "3615"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الطارف",
+    "name_fr": "",
+    "name_en": "الطارف",
+    "wilaya_code": "36",
+    "phone": "038 60 10 26",
+    "fax": "038 60 14 78",
+    "email": "tarfdaira@yahoo.com",
+    "communes": [
+      "3601",
+      "3604",
+      "3606",
+      "3620"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القالة",
+    "name_fr": "",
+    "name_en": "القالة",
+    "wilaya_code": "36",
+    "phone": "038 36 18 82",
+    "fax": "038 36 34 81 / 038 36 15 14",
+    "email": "dairakala3605@gmail.com",
+    "communes": [
+      "3605",
+      "3607",
+      "3609",
+      "3624"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بن مهيدي",
+    "name_fr": "",
+    "name_en": "بن مهيدي",
+    "wilaya_code": "36",
+    "phone": "038 34 72 72",
+    "fax": "038 34 71 33",
+    "email": "dairabenmhidi@gmail.com",
+    "communes": [
+      "3603",
+      "3610",
+      "3618"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوثلجة",
+    "name_fr": "",
+    "name_en": "بوثلجة",
+    "wilaya_code": "36",
+    "phone": "038 33 81 02",
+    "fax": "038 33 87 13",
+    "email": "NEANT",
+    "communes": [
+      "3608",
+      "3611",
+      "3612"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوحجار",
+    "name_fr": "",
+    "name_en": "بوحجار",
+    "wilaya_code": "36",
+    "phone": "038 32 75 90",
+    "fax": "038 32 75 15",
+    "email": "NEANT",
+    "communes": [
+      "3602",
+      "3621",
+      "3622",
+      "3623"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تندوف",
+    "name_fr": "",
+    "name_en": "تندوف",
+    "wilaya_code": "37",
+    "phone": "049 38 32 92",
+    "fax": "049 38 32 92",
+    "email": "contact@wilaya-tindouf.dz",
+    "communes": [
+      "3701",
+      "3702"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الأزهرية",
+    "name_fr": "",
+    "name_en": "الأزهرية",
+    "wilaya_code": "38",
+    "phone": "046 55 52 13",
+    "fax": "046 55 52 14",
+    "email": "",
+    "communes": [
+      "3804",
+      "3816",
+      "3821"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج الأمير عبد القادر",
+    "name_fr": "",
+    "name_en": "برج الأمير عبد القادر",
+    "wilaya_code": "38",
+    "phone": "046 58 93 78",
+    "fax": "046 58 93 79",
+    "email": "",
+    "communes": [
+      "3809",
+      "3814"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج بونعامة",
+    "name_fr": "",
+    "name_en": "برج بونعامة",
+    "wilaya_code": "38",
+    "phone": "046 50 33 47",
+    "fax": "046 50 30 54",
+    "email": "",
+    "communes": [
+      "3802",
+      "3805",
+      "3820",
+      "3822"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيسمسيلت",
+    "name_fr": "",
+    "name_en": "تيسمسيلت",
+    "wilaya_code": "38",
+    "phone": "046 56 90 18",
+    "fax": "046 57 91 24",
+    "email": "",
+    "communes": [
+      "3801",
+      "3812"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ثنية الاحد",
+    "name_fr": "",
+    "name_en": "ثنية الاحد",
+    "wilaya_code": "38",
+    "phone": "046 58 20 67",
+    "fax": "046 58 20 68",
+    "email": "",
+    "communes": [
+      "3803",
+      "3815"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خميستي",
+    "name_fr": "",
+    "name_en": "خميستي",
+    "wilaya_code": "38",
+    "phone": "046 56 10 87",
+    "fax": "046 56 11 03",
+    "email": "",
+    "communes": [
+      "3810",
+      "3811"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عماري",
+    "name_fr": "",
+    "name_en": "عماري",
+    "wilaya_code": "38",
+    "phone": "046 55 02 50",
+    "fax": "046 55 02 50",
+    "email": "",
+    "communes": [
+      "3813",
+      "3817",
+      "3818"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "لرجام",
+    "name_fr": "",
+    "name_en": "لرجام",
+    "wilaya_code": "38",
+    "phone": "046 53 42 63",
+    "fax": "046 53 42 63",
+    "email": "",
+    "communes": [
+      "3808",
+      "3819"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "البياضة",
+    "name_fr": "",
+    "name_en": "البياضة",
+    "wilaya_code": "39",
+    "phone": "032.22.02.26",
+    "fax": "032.22.01.01",
+    "email": "",
+    "communes": [
+      "3904"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الدبيلة",
+    "name_fr": "",
+    "name_en": "الدبيلة",
+    "wilaya_code": "39",
+    "phone": "032.20.80.15",
+    "fax": "032.20.81.47",
+    "email": "",
+    "communes": [
+      "3911",
+      "3912"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الرباح",
+    "name_fr": "",
+    "name_en": "الرباح",
+    "wilaya_code": "39",
+    "phone": "032.10.53.84",
+    "fax": "032.20.53.74",
+    "email": "",
+    "communes": [
+      "3902",
+      "3905",
+      "3925"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الرقيبة",
+    "name_fr": "",
+    "name_en": "الرقيبة",
+    "wilaya_code": "39",
+    "phone": "032.12.72.29",
+    "fax": "032.27.34.55",
+    "email": "",
+    "communes": [
+      "3908",
+      "3909"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الطالب العربي",
+    "name_fr": "",
+    "name_en": "الطالب العربي",
+    "wilaya_code": "39",
+    "phone": "032.10.72.40",
+    "fax": "032.10.73.06",
+    "email": "",
+    "communes": [
+      "3914",
+      "3915",
+      "3919"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المقرن",
+    "name_fr": "",
+    "name_en": "المقرن",
+    "wilaya_code": "39",
+    "phone": "032.27.42.08/11",
+    "fax": "032.20.86.60",
+    "email": "",
+    "communes": [
+      "3916",
+      "3918"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الوادي",
+    "name_fr": "",
+    "name_en": "الوادي",
+    "wilaya_code": "39",
+    "phone": "032.13.93.60",
+    "fax": "032.13.93.61",
+    "email": "",
+    "communes": [
+      "3901",
+      "3907"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "اميه وانسة",
+    "name_fr": "",
+    "name_en": "اميه وانسة",
+    "wilaya_code": "39",
+    "phone": "032.11.11.89",
+    "fax": "032.11.15.08",
+    "email": "",
+    "communes": [
+      "3903",
+      "3926"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حاسي خليفة",
+    "name_fr": "",
+    "name_en": "حاسي خليفة",
+    "wilaya_code": "39",
+    "phone": "032.20.03.17",
+    "fax": "032.20.03.22",
+    "email": "",
+    "communes": [
+      "3913",
+      "3917"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قمار",
+    "name_fr": "",
+    "name_en": "قمار",
+    "wilaya_code": "39",
+    "phone": "032.23.41.84",
+    "fax": "032.23.41.86",
+    "email": "",
+    "communes": [
+      "3906",
+      "3910",
+      "3920"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد رشاش",
+    "name_fr": "",
+    "name_en": "أولاد رشاش",
+    "wilaya_code": "40",
+    "phone": "032 78 60 48",
+    "fax": "032 78 60 49",
+    "email": "",
+    "communes": [
+      "4016",
+      "4017"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحامة",
+    "name_fr": "",
+    "name_en": "الحامة",
+    "wilaya_code": "40",
+    "phone": "032 73 12 64",
+    "fax": "032 73 12 65",
+    "email": "",
+    "communes": [
+      "4004",
+      "4005",
+      "4015"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بابار",
+    "name_fr": "",
+    "name_en": "بابار",
+    "wilaya_code": "40",
+    "phone": "032 33 03 35",
+    "fax": "032 33 03 13",
+    "email": "DAIRA.BABAR@YAHOO.FR",
+    "communes": [
+      "4013"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوحمامة",
+    "name_fr": "",
+    "name_en": "بوحمامة",
+    "wilaya_code": "40",
+    "phone": "032 33 51 55",
+    "fax": "032 33 52 14",
+    "email": "dairabh_4016@yahoo.fr",
+    "communes": [
+      "4008",
+      "4018",
+      "4019",
+      "4021"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خنشلة",
+    "name_fr": "",
+    "name_en": "خنشلة",
+    "wilaya_code": "40",
+    "phone": "032 71 87 28",
+    "fax": "032 71 87 33",
+    "email": "",
+    "communes": [
+      "4001"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ششار",
+    "name_fr": "",
+    "name_en": "ششار",
+    "wilaya_code": "40",
+    "phone": "032 35 33 58",
+    "fax": "032 35 33 61",
+    "email": "",
+    "communes": [
+      "4009",
+      "4011",
+      "4012",
+      "4020"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الطويلة",
+    "name_fr": "",
+    "name_en": "عين الطويلة",
+    "wilaya_code": "40",
+    "phone": "032 78 00 90",
+    "fax": "032 78 00 83",
+    "email": "",
+    "communes": [
+      "4002",
+      "4006"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قايس",
+    "name_fr": "",
+    "name_en": "قايس",
+    "wilaya_code": "40",
+    "phone": "032 77 08 80",
+    "fax": "032 77 08 28",
+    "email": "",
+    "communes": [
+      "4003",
+      "4007",
+      "4010"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أم العظايم",
+    "name_fr": "",
+    "name_en": "أم العظايم",
+    "wilaya_code": "41",
+    "phone": "037 83 32 79",
+    "fax": "037 83 34 10",
+    "email": "d.oumeladhaim.4116@gmail.com",
+    "communes": [
+      "4116",
+      "4124",
+      "4125"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد إدريس",
+    "name_fr": "",
+    "name_en": "أولاد إدريس",
+    "wilaya_code": "41",
+    "phone": "037 89 31 08",
+    "fax": "037 89 31 10",
+    "email": "daira.o.d.05@gmail.com",
+    "communes": [
+      "4105",
+      "4117"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحدادة",
+    "name_fr": "",
+    "name_en": "الحدادة",
+    "wilaya_code": "41",
+    "phone": "037 80 81 33",
+    "fax": "037 80 81 34",
+    "email": "dairahaddada@yahoo.com",
+    "communes": [
+      "4110",
+      "4111",
+      "4113"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المراهنة",
+    "name_fr": "",
+    "name_en": "المراهنة",
+    "wilaya_code": "41",
+    "phone": "037 80 46 52",
+    "fax": "037 80 46 54",
+    "email": "daira.merahna@gmail.com",
+    "communes": [
+      "4112",
+      "4119",
+      "4120"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المشروحة",
+    "name_fr": "",
+    "name_en": "المشروحة",
+    "wilaya_code": "41",
+    "phone": "037 85 62 41",
+    "fax": "037 85 62 38",
+    "email": "machroha4104@gmail.com",
+    "communes": [
+      "4103",
+      "4104"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بئر بوحوش",
+    "name_fr": "",
+    "name_en": "بئر بوحوش",
+    "wilaya_code": "41",
+    "phone": "037 86 10 08",
+    "fax": "037 86 10 14",
+    "email": "dairabbh@gmail.com",
+    "communes": [
+      "4114",
+      "4121",
+      "4126"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تاورة",
+    "name_fr": "",
+    "name_en": "تاورة",
+    "wilaya_code": "41",
+    "phone": "037 78 12 10",
+    "fax": "037 78 11 16",
+    "email": "daira.taoura4108@gmail.com",
+    "communes": [
+      "4107",
+      "4108",
+      "4109"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سدراتة",
+    "name_fr": "",
+    "name_en": "سدراتة",
+    "wilaya_code": "41",
+    "phone": "037 87 60 05",
+    "fax": "037 87 60 04",
+    "email": "eq.sedrata.4102@gmail.com",
+    "communes": [
+      "4102",
+      "4118",
+      "4123"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سوق أهراس",
+    "name_fr": "",
+    "name_en": "سوق أهراس",
+    "wilaya_code": "41",
+    "phone": "037 72 44 20",
+    "fax": "037 72 44 18",
+    "email": "dairasoukahras@yahoo.com",
+    "communes": [
+      "4101"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مداوروش",
+    "name_fr": "",
+    "name_en": "مداوروش",
+    "wilaya_code": "41",
+    "phone": "037 83 53 04",
+    "fax": "037 83 53 07",
+    "email": "daira4115@gmail.com",
+    "communes": [
+      "4106",
+      "4115",
+      "4122"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أحمر العين",
+    "name_fr": "",
+    "name_en": "أحمر العين",
+    "wilaya_code": "42",
+    "phone": "024 55 96 91",
+    "fax": "024 55 96 89",
+    "email": "N E A N T",
+    "communes": [
+      "4205",
+      "4219",
+      "4223"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الداموس",
+    "name_fr": "",
+    "name_en": "الداموس",
+    "wilaya_code": "42",
+    "phone": "024 43 34 90",
+    "fax": "024 43 32 05 /49",
+    "email": "daira.damous@gmail.com",
+    "communes": [
+      "4203",
+      "4215",
+      "4227"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القليعة",
+    "name_fr": "",
+    "name_en": "القليعة",
+    "wilaya_code": "42",
+    "phone": "024 38 08 10 / 11",
+    "fax": "024 38 08 09",
+    "email": "dairakolea42@gmail.com",
+    "communes": [
+      "4212",
+      "4224",
+      "4225"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بواسماعيل",
+    "name_fr": "",
+    "name_en": "بواسماعيل",
+    "wilaya_code": "42",
+    "phone": "024 32 16 56",
+    "fax": "024 32 16 60",
+    "email": "Daira4218@gmail.com",
+    "communes": [
+      "4206",
+      "4213",
+      "4218",
+      "4220"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيبازة",
+    "name_fr": "",
+    "name_en": "تيبازة",
+    "wilaya_code": "42",
+    "phone": "024 37 49 36 / 37",
+    "fax": "024 37 49 38",
+    "email": "tipasa4201@yahoo.com",
+    "communes": [
+      "4201"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حجوط",
+    "name_fr": "",
+    "name_en": "حجوط",
+    "wilaya_code": "42",
+    "phone": "024 39 11 46 / 48 /49",
+    "fax": "024391145",
+    "email": "contact@dairahadjout.com",
+    "communes": [
+      "4208",
+      "4216"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي أعمر",
+    "name_fr": "",
+    "name_en": "سيدي أعمر",
+    "wilaya_code": "42",
+    "phone": "024 33 45 66",
+    "fax": "024 33 42 75",
+    "email": "sidiamar42@gmail.com",
+    "communes": [
+      "4202",
+      "4209",
+      "4211"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شرشال",
+    "name_fr": "",
+    "name_en": "شرشال",
+    "wilaya_code": "42",
+    "phone": "024 43 95 01",
+    "fax": "024 43 86 33",
+    "email": "cherchell4214@gmail.com",
+    "communes": [
+      "4214",
+      "4221",
+      "4226",
+      "4228"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "فوكة",
+    "name_fr": "",
+    "name_en": "فوكة",
+    "wilaya_code": "42",
+    "phone": "024 40 11 76",
+    "fax": "024401385",
+    "email": "dairafouka@hotmail.com",
+    "communes": [
+      "4204",
+      "4217"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "قوراية",
+    "name_fr": "",
+    "name_en": "قوراية",
+    "wilaya_code": "42",
+    "phone": "024 34 29 70",
+    "fax": "024342352",
+    "email": "dairagouraya@gmail.com",
+    "communes": [
+      "4207",
+      "4210",
+      "4222"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد دراج",
+    "name_fr": "",
+    "name_en": "أولاد دراج",
+    "wilaya_code": "43",
+    "phone": "035 57 73 50 / 035 57 72 21",
+    "fax": "035 57 73 25",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد سيدي ابراهيم",
+    "name_fr": "",
+    "name_en": "أولاد سيدي ابراهيم",
+    "wilaya_code": "43",
+    "phone": "035 44 01 02",
+    "fax": "035 44 01 05",
+    "email": "Daira.osd.2879@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المسيلة",
+    "name_fr": "",
+    "name_en": "المسيلة",
+    "wilaya_code": "43",
+    "phone": "035 33 84 84 / 035 33 83 79",
+    "fax": "035 33 83 79",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "امجدل",
+    "name_fr": "",
+    "name_en": "امجدل",
+    "wilaya_code": "43",
+    "phone": "035 43 01 06",
+    "fax": "035 43 01 16",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بن سرور",
+    "name_fr": "",
+    "name_en": "بن سرور",
+    "wilaya_code": "43",
+    "phone": "035 46 82 02",
+    "fax": "035 46 82 01",
+    "email": "daira.bensrour@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بوسعادة",
+    "name_fr": "",
+    "name_en": "بوسعادة",
+    "wilaya_code": "43",
+    "phone": "035 43 46 98 / 035 43 46 99",
+    "fax": "035 43 46 77",
+    "email": "Bousaada2820@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جبل مساعد",
+    "name_fr": "",
+    "name_en": "جبل مساعد",
+    "wilaya_code": "43",
+    "phone": "035 46 11 02",
+    "fax": "035 46 11 02",
+    "email": "dairamessaad@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام الضلعة",
+    "name_fr": "",
+    "name_en": "حمام الضلعة",
+    "wilaya_code": "43",
+    "phone": "035 57 51 10 / 035 57 50 76",
+    "fax": "035 57 51 40",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خبانة",
+    "name_fr": "",
+    "name_en": "خبانة",
+    "wilaya_code": "43",
+    "phone": "035 46 71 03",
+    "fax": "035 46 71 07",
+    "email": "Dairakhoubana@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي عامر",
+    "name_fr": "",
+    "name_en": "سيدي عامر",
+    "wilaya_code": "43",
+    "phone": "035 46 51 82",
+    "fax": "035 46 51 61",
+    "email": "daira.sidiameur28@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي عيسى",
+    "name_fr": "",
+    "name_en": "سيدي عيسى",
+    "wilaya_code": "43",
+    "phone": "035 40 56 00 / 035 40 56 56",
+    "fax": "035 40 56 01",
+    "email": "dairadesidiaissa@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شلال",
+    "name_fr": "",
+    "name_en": "شلال",
+    "wilaya_code": "43",
+    "phone": "035 57 21 86",
+    "fax": "035 57 21 87",
+    "email": "daira.chellal@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الحجل",
+    "name_fr": "",
+    "name_en": "عين الحجل",
+    "wilaya_code": "43",
+    "phone": "035 50 05 03",
+    "fax": "035 50 06 60",
+    "email": "dairaaeh@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الملح",
+    "name_fr": "",
+    "name_en": "عين الملح",
+    "wilaya_code": "43",
+    "phone": "035 47 84 02 / 035 47 83 64",
+    "fax": "035 47 83 95",
+    "email": "daira_ain_El_melh2804@yahoo.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مقرة",
+    "name_fr": "",
+    "name_en": "مقرة",
+    "wilaya_code": "43",
+    "phone": "035 59 22 16 / 035 59 29 75",
+    "fax": "035 59 33 60",
+    "email": "Dairamagra2811@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الروينة",
+    "name_fr": "",
+    "name_en": "الروينة",
+    "wilaya_code": "44",
+    "phone": "027 61 72 39",
+    "fax": "027 61 72 42",
+    "email": "dairarouina2017@gmail.com",
+    "communes": [
+      "4416",
+      "4417",
+      "4434"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العامرة",
+    "name_fr": "",
+    "name_en": "العامرة",
+    "wilaya_code": "44",
+    "phone": "027 52 05 82",
+    "fax": "027 52 05 86",
+    "email": "",
+    "communes": [
+      "4406",
+      "4408",
+      "4430"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العبادية",
+    "name_fr": "",
+    "name_en": "العبادية",
+    "wilaya_code": "44",
+    "phone": "027 63 95 20",
+    "fax": "027 63 83 57",
+    "email": "",
+    "communes": [
+      "4411",
+      "4432",
+      "4433"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العطاف",
+    "name_fr": "",
+    "name_en": "العطاف",
+    "wilaya_code": "44",
+    "phone": "027 63 32 61 /027 63 24 08",
+    "fax": "027 63 37 85",
+    "email": "daira.4410@gmail.com",
+    "communes": [
+      "4410",
+      "4435"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج الأمير خالد",
+    "name_fr": "",
+    "name_en": "برج الأمير خالد",
+    "wilaya_code": "44",
+    "phone": "027 57 03 89",
+    "fax": "027 57 03 86",
+    "email": "",
+    "communes": [
+      "4419",
+      "4421",
+      "4422"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بطحية",
+    "name_fr": "",
+    "name_en": "بطحية",
+    "wilaya_code": "44",
+    "phone": "027 52 91 43",
+    "fax": "027 52 91 41",
+    "email": "",
+    "communes": [
+      "4418",
+      "4431",
+      "4436"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بومدفع",
+    "name_fr": "",
+    "name_en": "بومدفع",
+    "wilaya_code": "44",
+    "phone": "027 64 51 98",
+    "fax": "027 64 41 56",
+    "email": "dairabm@gmail.com",
+    "communes": [
+      "4403",
+      "4418"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جليدة",
+    "name_fr": "",
+    "name_en": "جليدة",
+    "wilaya_code": "44",
+    "phone": "027 52 25 71",
+    "fax": "027 52 24 09",
+    "email": "",
+    "communes": [
+      "4407",
+      "4409",
+      "4429"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جندل",
+    "name_fr": "",
+    "name_en": "جندل",
+    "wilaya_code": "44",
+    "phone": "027 54 10 81",
+    "fax": "027 54 10 80",
+    "email": "",
+    "communes": [
+      "4412",
+      "4413",
+      "4428"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام ريغة",
+    "name_fr": "",
+    "name_en": "حمام ريغة",
+    "wilaya_code": "44",
+    "phone": "027 54 34 55",
+    "fax": "027 54 34 57",
+    "email": "",
+    "communes": [
+      "4405",
+      "4423",
+      "4426"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "خميس",
+    "name_fr": "",
+    "name_en": "خميس",
+    "wilaya_code": "44",
+    "phone": "027 66 21 25",
+    "fax": "027 66 40 50",
+    "email": "",
+    "communes": [
+      "4404",
+      "4424"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الاشياخ",
+    "name_fr": "",
+    "name_en": "عين الاشياخ",
+    "wilaya_code": "44",
+    "phone": "027 57 55 76",
+    "fax": "027 57 55 68",
+    "email": "",
+    "communes": [
+      "4414",
+      "4415",
+      "4420"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الدفلى",
+    "name_fr": "",
+    "name_en": "عين الدفلى",
+    "wilaya_code": "44",
+    "phone": "027 50 02 23",
+    "fax": "027 50 02 31",
+    "email": "",
+    "communes": [
+      "4401"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مليانة",
+    "name_fr": "",
+    "name_en": "مليانة",
+    "wilaya_code": "44",
+    "phone": "027.64.93.98/64.81.00",
+    "fax": "027 64 00 82",
+    "email": "",
+    "communes": [
+      "4402",
+      "4425"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المشرية",
+    "name_fr": "",
+    "name_en": "المشرية",
+    "wilaya_code": "45",
+    "phone": "049 77 40 29",
+    "fax": "049 77 69 91",
+    "email": "",
+    "communes": [
+      "4502",
+      "4509",
+      "4512"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "النعامة",
+    "name_fr": "",
+    "name_en": "النعامة",
+    "wilaya_code": "45",
+    "phone": "049 59 61 82",
+    "fax": "049 59 62 41",
+    "email": "",
+    "communes": [
+      "4501"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سفيسيفة",
+    "name_fr": "",
+    "name_en": "سفيسيفة",
+    "wilaya_code": "45",
+    "phone": "049 76 71 35",
+    "fax": "049 76 72 42",
+    "email": "zini2500@gmail.com",
+    "communes": [
+      "4505"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عسلة",
+    "name_fr": "",
+    "name_en": "عسلة",
+    "wilaya_code": "45",
+    "phone": "049 79 02 11",
+    "fax": "049 79 03 62",
+    "email": "",
+    "communes": [
+      "4507"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الصفراء",
+    "name_fr": "",
+    "name_en": "عين الصفراء",
+    "wilaya_code": "45",
+    "phone": "049 56 77 81",
+    "fax": "049 56 77 82",
+    "email": "",
+    "communes": [
+      "4503",
+      "4504"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مغرار",
+    "name_fr": "",
+    "name_en": "مغرار",
+    "wilaya_code": "45",
+    "phone": "049 76 02 05",
+    "fax": "049 76 02 03",
+    "email": "",
+    "communes": [
+      "4506",
+      "4508"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مكمن بن عمار",
+    "name_fr": "",
+    "name_en": "مكمن بن عمار",
+    "wilaya_code": "45",
+    "phone": "049 58 31 94",
+    "fax": "049 58 32 91",
+    "email": "",
+    "communes": [
+      "4510",
+      "4511"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "العامرية",
+    "name_fr": "",
+    "name_en": "العامرية",
+    "wilaya_code": "46",
+    "phone": "043 76 01 71",
+    "fax": "043 76 01 53",
+    "email": "",
+    "communes": [
+      "4605",
+      "4617",
+      "4619",
+      "4620",
+      "4628"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المالح",
+    "name_fr": "",
+    "name_en": "المالح",
+    "wilaya_code": "46",
+    "phone": "043 75 09 69",
+    "fax": "043 75 09 68",
+    "email": "",
+    "communes": [
+      "4602",
+      "4608",
+      "4614"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني صاف",
+    "name_fr": "",
+    "name_en": "بني صاف",
+    "wilaya_code": "46",
+    "phone": "043 74 23 00/22 89/32 93",
+    "fax": "043 74 23 90",
+    "email": "",
+    "communes": [
+      "4623",
+      "4624",
+      "4627"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "حمام بوحجر",
+    "name_fr": "",
+    "name_en": "حمام بوحجر",
+    "wilaya_code": "46",
+    "phone": "043 71 61 22",
+    "fax": "043 71 64 54",
+    "email": "dairahbh@gmail.com",
+    "communes": [
+      "4604",
+      "4606",
+      "4611",
+      "4621"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الأربعاء",
+    "name_fr": "",
+    "name_en": "عين الأربعاء",
+    "wilaya_code": "46",
+    "phone": "043 73 10 80",
+    "fax": "043 73 10 81",
+    "email": "",
+    "communes": [
+      "4609",
+      "4610",
+      "4615",
+      "4616"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين الكيحل",
+    "name_fr": "",
+    "name_en": "عين الكيحل",
+    "wilaya_code": "46",
+    "phone": "043 65 01 32 /01 36",
+    "fax": "043 65 01 33",
+    "email": "",
+    "communes": [
+      "4607",
+      "4613",
+      "4618",
+      "4603"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين تموشنت",
+    "name_fr": "",
+    "name_en": "عين تموشنت",
+    "wilaya_code": "46",
+    "phone": "043 78 51 91",
+    "fax": "043 78 14 81",
+    "email": "",
+    "communes": [
+      "4601",
+      "4612"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ولهاصة الغرابة",
+    "name_fr": "",
+    "name_en": "ولهاصة الغرابة",
+    "wilaya_code": "46",
+    "phone": "043 69 01 33",
+    "fax": "043 69 01 31",
+    "email": "",
+    "communes": [
+      "4625",
+      "4626"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القرارة",
+    "name_fr": "",
+    "name_en": "القرارة",
+    "wilaya_code": "47",
+    "phone": "029 26 10 32",
+    "fax": "029 26 18 42",
+    "email": "dairaguerrara@gmail.com",
+    "communes": [
+      "4706"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المنصورة",
+    "name_fr": "",
+    "name_en": "المنصورة",
+    "wilaya_code": "47",
+    "phone": "029 27 62 27",
+    "fax": "029 27 62 04",
+    "email": "",
+    "communes": [
+      "4713"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بريان",
+    "name_fr": "",
+    "name_en": "بريان",
+    "wilaya_code": "47",
+    "phone": "029 24 68 98/029 24 53 17/029 24 53 18",
+    "fax": "029 24 53 50",
+    "email": "dairaberriane47@gmail.com",
+    "communes": [
+      "4704"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بونورة",
+    "name_fr": "",
+    "name_en": "بونورة",
+    "wilaya_code": "47",
+    "phone": "029 25 52 86",
+    "fax": "029 25 51 19",
+    "email": "daira_bounoura@yahoo,fr",
+    "communes": [
+      "4707",
+      "4710"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زلفانة",
+    "name_fr": "",
+    "name_en": "زلفانة",
+    "wilaya_code": "47",
+    "phone": "029 26 46 47",
+    "fax": "029 26 46 45",
+    "email": "4708zelfana@gmail.com",
+    "communes": [
+      "4708"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "ضاية بن ضحوة",
+    "name_fr": "",
+    "name_en": "ضاية بن ضحوة",
+    "wilaya_code": "47",
+    "phone": "029 25 15 44",
+    "fax": "029 25 12 00",
+    "email": "",
+    "communes": [
+      "4703"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "غرداية",
+    "name_fr": "",
+    "name_en": "غرداية",
+    "wilaya_code": "47",
+    "phone": "029 28 55 31",
+    "fax": "029 28 58 75",
+    "email": "dairaghardaia4701@hotmail.com",
+    "communes": [
+      "4701"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "متليلي",
+    "name_fr": "",
+    "name_en": "متليلي",
+    "wilaya_code": "47",
+    "phone": "029 29 22 16",
+    "fax": "029 29 25 27",
+    "email": "",
+    "communes": [
+      "4705",
+      "4709"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الحمادنة",
+    "name_fr": "",
+    "name_en": "الحمادنة",
+    "wilaya_code": "48",
+    "phone": "046 83 32 21",
+    "fax": "046 83 39 75",
+    "email": "",
+    "communes": [
+      "4807",
+      "4826"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الرمكة",
+    "name_fr": "",
+    "name_en": "الرمكة",
+    "wilaya_code": "48",
+    "phone": "046 80 51 32",
+    "fax": "046 80 51 30",
+    "email": "",
+    "communes": [
+      "4831"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المطمر",
+    "name_fr": "",
+    "name_en": "المطمر",
+    "wilaya_code": "48",
+    "phone": "046 80 32 80",
+    "fax": "046 80 30 39",
+    "email": "",
+    "communes": [
+      "4803",
+      "4810",
+      "4817",
+      "4808"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جديوية",
+    "name_fr": "",
+    "name_en": "جديوية",
+    "wilaya_code": "48",
+    "phone": "046 83 70 02",
+    "fax": "046 83 70 01",
+    "email": "",
+    "communes": [
+      "4814",
+      "4838"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "زمورة",
+    "name_fr": "",
+    "name_en": "زمورة",
+    "wilaya_code": "48",
+    "phone": "046 86 52 52",
+    "fax": "046 86 52 51",
+    "email": "",
+    "communes": [
+      "4812",
+      "4813",
+      "4832"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي أمحمد بن علي",
+    "name_fr": "",
+    "name_en": "سيدي أمحمد بن علي",
+    "wilaya_code": "48",
+    "phone": "046 94 01 80",
+    "fax": "046 94 02 46",
+    "email": "",
+    "communes": [
+      "4808",
+      "4809",
+      "4830"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عمي موسى",
+    "name_fr": "",
+    "name_en": "عمي موسى",
+    "wilaya_code": "48",
+    "phone": "046 84 34 89",
+    "fax": "046 84 30 62",
+    "email": "",
+    "communes": [
+      "4805",
+      "4811",
+      "4833",
+      "4836"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين طارق",
+    "name_fr": "",
+    "name_en": "عين طارق",
+    "wilaya_code": "48",
+    "phone": "046 85 91 47",
+    "fax": "046 85 91 47",
+    "email": "",
+    "communes": [
+      "4819",
+      "4834"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "غليزان",
+    "name_fr": "",
+    "name_en": "غليزان",
+    "wilaya_code": "48",
+    "phone": "046 71 63 83",
+    "fax": "046 71 63 82",
+    "email": "",
+    "communes": [
+      "4801",
+      "4835"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "مازونة",
+    "name_fr": "",
+    "name_en": "مازونة",
+    "wilaya_code": "48",
+    "phone": "046 94 73 80",
+    "fax": "046 94 82 27",
+    "email": "",
+    "communes": [
+      "4815",
+      "4822"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "منداس",
+    "name_fr": "",
+    "name_en": "منداس",
+    "wilaya_code": "48",
+    "phone": "046 86 01 60",
+    "fax": "046 86 05 71",
+    "email": "",
+    "communes": [
+      "4806",
+      "4820",
+      "4828"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "وادي رهيو",
+    "name_fr": "",
+    "name_en": "وادي رهيو",
+    "wilaya_code": "48",
+    "phone": "046 78 80 54",
+    "fax": "046 78 80 51",
+    "email": "",
+    "communes": [
+      "4802",
+      "4821",
+      "4829",
+      "4837"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "يلل",
+    "name_fr": "",
+    "name_en": "يلل",
+    "wilaya_code": "48",
+    "phone": "046 81 00 98",
+    "fax": "046 81 01 02",
+    "email": "",
+    "communes": [
+      "4804",
+      "4823",
+      "4824",
+      "4825"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أوقروت",
+    "name_fr": "",
+    "name_en": "أوقروت",
+    "wilaya_code": "49",
+    "phone": "049 90 88 22",
+    "fax": "049 90 84 82",
+    "email": "daira0123@gmail.com",
+    "communes": [
+      "4906",
+      "4907",
+      "4908"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تنركوك",
+    "name_fr": "",
+    "name_en": "تنركوك",
+    "wilaya_code": "49",
+    "phone": "049 30 91 49",
+    "fax": "049 90 94 76",
+    "email": "tinerkoukdaira@gmail.com",
+    "communes": [
+      "4903",
+      "4905"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تيميمون",
+    "name_fr": "",
+    "name_en": "تيميمون",
+    "wilaya_code": "49",
+    "phone": "049 30 01 58",
+    "fax": "049 34 80 31",
+    "email": "dairatimioun@gmail.com",
+    "communes": [
+      "4901",
+      "4904"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "شروين",
+    "name_fr": "",
+    "name_en": "شروين",
+    "wilaya_code": "49",
+    "phone": "049 90 62 52",
+    "fax": "049 90 62 68",
+    "email": "dairacharouine0103@gmail.com",
+    "communes": [
+      "4902",
+      "4909",
+      "4910"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "برج باجي مختار",
+    "name_fr": "",
+    "name_en": "برج باجي مختار",
+    "wilaya_code": "50",
+    "phone": "049 32 97 56",
+    "fax": "049 32 98 58",
+    "email": "bbmdaira0125@gmail.com",
+    "communes": [
+      "5001",
+      "5002"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "أولاد جلال",
+    "name_fr": "",
+    "name_en": "أولاد جلال",
+    "wilaya_code": "51",
+    "phone": "033.66.32.83/033-66-32-84",
+    "fax": "033.66.33.46/033-66-32-92",
+    "email": "ca.ouleddjellal@gmail.com",
+    "communes": [
+      "5101",
+      "5106",
+      "5105"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "سيدي خالد",
+    "name_fr": "",
+    "name_en": "سيدي خالد",
+    "wilaya_code": "51",
+    "phone": "033-67-94-53/033-67-94-54",
+    "fax": "033-67-99-36/033-67-99-37",
+    "email": "dairask07@gmail/com",
+    "communes": [
+      "5103",
+      "5104",
+      "5102"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "القنادسة",
+    "name_fr": "",
+    "name_en": "القنادسة",
+    "wilaya_code": "52",
+    "phone": "049-24-13-13",
+    "fax": "049-24-14-93",
+    "email": "",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني عباس",
+    "name_fr": "",
+    "name_en": "بني عباس",
+    "wilaya_code": "52",
+    "phone": "049-28-47-71",
+    "fax": "049-27-08-55",
+    "email": "",
+    "communes": [
+      "5201",
+      "5202"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "بني ونيف",
+    "name_fr": "",
+    "name_en": "بني ونيف",
+    "wilaya_code": "52",
+    "phone": "049 25 17 07",
+    "fax": "049 25 17 06",
+    "email": "dairabeniounif@gmail.com",
+    "communes": [],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين صالح",
+    "name_fr": "",
+    "name_en": "عين صالح",
+    "wilaya_code": "53",
+    "phone": "029 38 54  46",
+    "fax": "029 38 54 47",
+    "email": "",
+    "communes": [
+      "5301",
+      "5303"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "عين قزام",
+    "name_fr": "",
+    "name_en": "عين قزام",
+    "wilaya_code": "54",
+    "phone": "029 35 42 91",
+    "fax": "029 35 45 82",
+    "email": "",
+    "communes": [
+      "5401"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "الطيبات",
+    "name_fr": "",
+    "name_en": "الطيبات",
+    "wilaya_code": "55",
+    "phone": "029 61 16 92",
+    "fax": "029 61 13 51",
+    "email": "",
+    "communes": [
+      "5509",
+      "5510",
+      "5508"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المقارين",
+    "name_fr": "",
+    "name_en": "المقارين",
+    "wilaya_code": "55",
+    "phone": "029 62 81 97/029 62 82 07",
+    "fax": "029 62 82 06",
+    "email": "",
+    "communes": [
+      "5511",
+      "5507"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "تقرت",
+    "name_fr": "",
+    "name_en": "تقرت",
+    "wilaya_code": "55",
+    "phone": "029 68 13 13",
+    "fax": "029 68 23 25",
+    "email": "",
+    "communes": [
+      "5503",
+      "5502",
+      "5504",
+      "5501"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جانت",
+    "name_fr": "",
+    "name_en": "جانت",
+    "wilaya_code": "56",
+    "phone": "029 48 55 70",
+    "fax": "029 48 55 71/029 47 64 72",
+    "email": "",
+    "communes": [
+      "5601",
+      "5602"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المغير",
+    "name_fr": "",
+    "name_en": "المغير",
+    "wilaya_code": "57",
+    "phone": "032.19.41.42",
+    "fax": "032.19.41.39",
+    "email": "",
+    "communes": [
+      "5703",
+      "5704",
+      "5701",
+      "5702"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "جامعة",
+    "name_fr": "",
+    "name_en": "جامعة",
+    "wilaya_code": "57",
+    "phone": "032.15.60.09",
+    "fax": "032.25.70.37",
+    "email": "",
+    "communes": [
+      "5708",
+      "5707",
+      "5705",
+      "5706"
+    ],
+    "source": "legacy"
+  },
+  {
+    "name_ar": "المنيعة",
+    "name_fr": "",
+    "name_en": "المنيعة",
+    "wilaya_code": "58",
+    "phone": "029 21 10 96",
+    "fax": "029 21 10 93",
+    "email": "",
+    "communes": [
+      "5801",
+      "5802"
+    ],
+    "source": "legacy"
+  }
+]

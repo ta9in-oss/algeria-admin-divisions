@@ -1,0 +1,230 @@
+[
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "49",
+    "new_wilaya_name_ar": "تيميمون",
+    "parent_wilaya_code": "01",
+    "parent_wilaya_name_ar": "أدرار",
+    "dairas_moved": [
+      "تيميمون",
+      "شروين",
+      "أوقروت",
+      "تنركوك"
+    ],
+    "communes_count": 10,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "50",
+    "new_wilaya_name_ar": "برج باجي مختار",
+    "parent_wilaya_code": "01",
+    "parent_wilaya_name_ar": "أدرار",
+    "dairas_moved": [
+      "برج باجي مختار"
+    ],
+    "communes_count": 2,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "51",
+    "new_wilaya_name_ar": "أولاد جلال",
+    "parent_wilaya_code": "07",
+    "parent_wilaya_name_ar": "بسكرة",
+    "dairas_moved": [
+      "أولاد جلال",
+      "سيدي خالد"
+    ],
+    "communes_count": 6,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "52",
+    "new_wilaya_name_ar": "بني عباس",
+    "parent_wilaya_code": "08",
+    "parent_wilaya_name_ar": "بشار",
+    "dairas_moved": [
+      "بني عباس",
+      "بني ونيف",
+      "القنادسة"
+    ],
+    "communes_count": 10,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "53",
+    "new_wilaya_name_ar": "عين صالح",
+    "parent_wilaya_code": "11",
+    "parent_wilaya_name_ar": "تمنراست",
+    "dairas_moved": [
+      "عين صالح"
+    ],
+    "communes_count": 3,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "54",
+    "new_wilaya_name_ar": "عين قزام",
+    "parent_wilaya_code": "11",
+    "parent_wilaya_name_ar": "تمنراست",
+    "dairas_moved": [
+      "عين قزام"
+    ],
+    "communes_count": 2,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "55",
+    "new_wilaya_name_ar": "تقرت",
+    "parent_wilaya_code": "30",
+    "parent_wilaya_name_ar": "ورقلة",
+    "dairas_moved": [
+      "تقرت",
+      "المقارين",
+      "الطيبات"
+    ],
+    "communes_count": 13,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "56",
+    "new_wilaya_name_ar": "جانت",
+    "parent_wilaya_code": "33",
+    "parent_wilaya_name_ar": "إيليزي",
+    "dairas_moved": [
+      "جانت"
+    ],
+    "communes_count": 2,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "57",
+    "new_wilaya_name_ar": "المغير",
+    "parent_wilaya_code": "39",
+    "parent_wilaya_name_ar": "الوادي",
+    "dairas_moved": [
+      "المغير",
+      "جامعة"
+    ],
+    "communes_count": 8,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_split",
+    "new_wilaya_code": "58",
+    "new_wilaya_name_ar": "المنيعة",
+    "parent_wilaya_code": "47",
+    "parent_wilaya_name_ar": "غرداية",
+    "dairas_moved": [
+      "المنيعة"
+    ],
+    "communes_count": 3,
+    "effective_year": 2019
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "59",
+    "new_wilaya_name_ar": "آفلو",
+    "new_wilaya_name_fr": "Aflou",
+    "parent_wilaya_code": "03",
+    "parent_wilaya_name_ar": "الأغواط",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "60",
+    "new_wilaya_name_ar": "بريكة",
+    "new_wilaya_name_fr": "Barika",
+    "parent_wilaya_code": "05",
+    "parent_wilaya_name_ar": "باتنة",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "61",
+    "new_wilaya_name_ar": "القنطرة",
+    "new_wilaya_name_fr": "El Kantara",
+    "parent_wilaya_code": "07",
+    "parent_wilaya_name_ar": "بسكرة",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "62",
+    "new_wilaya_name_ar": "بئر العاتر",
+    "new_wilaya_name_fr": "Bir El Ater",
+    "parent_wilaya_code": "12",
+    "parent_wilaya_name_ar": "تبسة",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "63",
+    "new_wilaya_name_ar": "العريشة",
+    "new_wilaya_name_fr": "El Aricha",
+    "parent_wilaya_code": "13",
+    "parent_wilaya_name_ar": "تلمسان",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "64",
+    "new_wilaya_name_ar": "قصر الشلالة",
+    "new_wilaya_name_fr": "Ksar Chellala",
+    "parent_wilaya_code": "14",
+    "parent_wilaya_name_ar": "تيارت",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "65",
+    "new_wilaya_name_ar": "عين وسارة",
+    "new_wilaya_name_fr": "Ain Oussara",
+    "parent_wilaya_code": "17",
+    "parent_wilaya_name_ar": "الجلفة",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "66",
+    "new_wilaya_name_ar": "مسعد",
+    "new_wilaya_name_fr": "Messaad",
+    "parent_wilaya_code": "17",
+    "parent_wilaya_name_ar": "الجلفة",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "67",
+    "new_wilaya_name_ar": "قصر البخاري",
+    "new_wilaya_name_fr": "Ksar El Boukhari",
+    "parent_wilaya_code": "26",
+    "parent_wilaya_name_ar": "المدية",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "68",
+    "new_wilaya_name_ar": "بوسعادة",
+    "new_wilaya_name_fr": "Bou Saada",
+    "parent_wilaya_code": "28",
+    "parent_wilaya_name_ar": "المسيلة",
+    "effective_year": 2025
+  },
+  {
+    "type": "wilaya_created",
+    "new_wilaya_code": "69",
+    "new_wilaya_name_ar": "الأبيض سيدي الشيخ",
+    "new_wilaya_name_fr": "El Abiodh Sidi Cheikh",
+    "parent_wilaya_code": "32",
+    "parent_wilaya_name_ar": "البيض",
+    "effective_year": 2025
+  }
+]
