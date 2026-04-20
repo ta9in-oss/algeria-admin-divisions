@@ -6,11 +6,7 @@
 
 ### Base de données des divisions administratives de l'Algérie
 
-[![Maintained by Ta9in](https://img.shields.io/badge/Maintained%20by-Ta9in-blueviolet)](https://ta9in.com)
-[![Update Data](https://github.com/ta9in-oss/algeria-admin-divisions/actions/workflows/update-data.yml/badge.svg)](https://github.com/ta9in-oss/algeria-admin-divisions/actions/workflows/update-data.yml)
-[![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
-[![Data Quality](https://img.shields.io/badge/Data%20Quality-69%2F69%20Wilayas-brightgreen)](data/processed/)
-
+[![Maintained by Ta9in](https://img.shields.io/badge/Maintained%20by-Ta9in-blueviolet)](https://ta9in.com) &nbsp; | &nbsp; [![Data Quality](https://img.shields.io/badge/Data%20Quality-69%2F69%20Wilayas-brightgreen)](data/processed/) &nbsp; | &nbsp; [![Update Data](https://github.com/ta9in-oss/algeria-admin-divisions/actions/workflows/update-data.yml/badge.svg)](https://github.com/ta9in-oss/algeria-admin-divisions/actions/workflows/update-data.yml) &nbsp; | &nbsp; [![License: MIT](https://img.shields.io/badge/License-MIT-green.svg)](LICENSE)
 
 </div>
 
